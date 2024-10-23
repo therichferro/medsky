@@ -7,7 +7,7 @@
     "setup": "npx tsx src/setup.ts",
     "clear": "npx tsx src/clear-posts.ts",
     "start": "npx tsx --watch src/main.ts",
-    "pm2:start": "pm2 start tsx --name medsky-labeler -- src/main.ts --watch --ignore-watch=\"labels.db,labels.db-shm,labels.db-wal\""
+    "pm2:start": "pm2 start ecosystem.config.cjs"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.11",
