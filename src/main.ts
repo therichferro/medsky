@@ -1,9 +1,11 @@
 import { LabelerServer } from '@skyware/labeler';
 import { Bot, Post } from '@skyware/bot';
-import 'dotenv/config';
 import { LabelType } from './type.js';
 import { fields } from './fields.js';
 import chalk from 'chalk';
+import express, { Request, Response } from 'express';
+import Database from 'better-sqlite3';
+import 'dotenv/config';
 
 const allFields = Object
   .values(fields)
@@ -36,7 +38,6 @@ const availableLabels = new Map<string, LabelType>();
 server.db.prepare('SELECT * FROM labels_definitions').all().forEach((row: any) => availableLabels.set(row.uri as string, row as LabelType));
 
 bot.on('like', async ({ subject, user }) => {
-  
   const handle = chalk.underline(user.handle);
   if (!(subject instanceof Post)) {
     console.log(chalk.cyan("[L] " + handle + ' liked the labeler!'));
@@ -53,12 +54,43 @@ bot.on('like', async ({ subject, user }) => {
     let userLabels = server.db.prepare('SELECT * FROM labels WHERE uri = ?').all(user.did);
     console.log(chalk.red('[D] Deleting ' + handle + ' labels: ' + userLabels.map((label: any) => label.val)));
 
-    await server.createLabels({ uri: user.did }, { negate: [...allFields, 'clear'] });
+    server.createLabels({ uri: user.did }, { negate: [...allFields, 'clear'] });
     
     server.db.prepare('DELETE FROM labels WHERE uri = ?').run(user.did);
     return;
   }
 
-  await user.labelAccount([label.slug]);
+  server.createLabel({ uri: user.did, val: label.slug });
   console.log(chalk.green('[N] Labeling ' + handle + ' with ' + label.name ));
+});
+
+
+// Metrics
+
+const dbPath = '/home/medsky/labels.db';
+
+function getUniqueURICount(dbPath: string): number {
+  const db = new Database(dbPath, { readonly: true });
+  try {
+    const row: { count: number } = db.prepare('SELECT COUNT(DISTINCT uri) AS count FROM labels').get() as { count: number };
+    return row.count;
+  } finally {
+    db.close();
+  }
+}
+
+const app = express();
+
+app.get('/metrics', (req: Request, res: Response) => {
+  try {
+    const count = getUniqueURICount(dbPath);
+    res.send(`Number of unique users in the Medsky database: ${count}`);
+  } catch (err) {
+    console.error('Error querying the Medsky database:', err);
+    res.status(500).send('Error querying the Medsky database');
+  }
+});
+
+app.listen(4000, () => {
+  console.log('Metrics running on port 4000!');
 });
