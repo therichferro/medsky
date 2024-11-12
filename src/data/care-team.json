@@ -1,0 +1,232 @@
+[
+	{
+		"identifier": "medical-scribe",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Medical Scribe",
+				"description": "This user is a Medical Scribe"
+			}
+		]
+	},
+	{
+		"identifier": "audiology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Audiology",
+				"description": "This user works in the field of Audiology"
+			}
+		]
+	},
+	{
+		"identifier": "cognitive-behavioral-therapy",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Cognitive Behavioral Therapy",
+				"description": "This user works in the field of Cognitive Behavioral Therapy"
+			}
+		]
+	},
+	{
+		"identifier": "ems",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "EMS",
+				"description": "This user works in the field of Emergency Medical Services"
+			}
+		]
+	},
+	{
+		"identifier": "healthcare-administration",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Healthcare Administration",
+				"description": "This user works in the field of Healthcare Administration"
+			}
+		]
+	},
+	{
+		"identifier": "home-health",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Home Health",
+				"description": "This user works in the field of Home Health"
+			}
+		]
+	},
+	{
+		"identifier": "intermediate-care",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Intermediate Care",
+				"description": "This user works in the field of Intermediate Care"
+			}
+		]
+	},
+	{
+		"identifier": "lactation",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Lactation",
+				"description": "This user works in the field of Lactation"
+			}
+		]
+	},
+	{
+		"identifier": "medical-ethics",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Medical Ethics",
+				"description": "This user works in the field of Medical Ethics"
+			}
+		]
+	},
+	{
+		"identifier": "medical-records",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Medical Records",
+				"description": "This user works in the field of Medical Records"
+			}
+		]
+	},
+	{
+		"identifier": "medical-toxicology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Medical Toxicology",
+				"description": "This user works in the field of Medical Toxicology"
+			}
+		]
+	},
+	{
+		"identifier": "nutrition",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Nutrition",
+				"description": "This user works in the field of Nutrition"
+			}
+		]
+	},
+	{
+		"identifier": "occupational-therapy",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Occupational Therapy",
+				"description": "This user works in the field of Occupational Therapy"
+			}
+		]
+	},
+	{
+		"identifier": "patient-experience",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Patient Experience",
+				"description": "This user works in the field of Patient Experience"
+			}
+		]
+	},
+	{
+		"identifier": "physician-wellbeing",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Physician Wellbeing",
+				"description": "This user works in the field of Physician Wellbeing"
+			}
+		]
+	},
+	{
+		"identifier": "physical-therapy",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Physical Therapy",
+				"description": "This user works in the field of Physical Therapy"
+			}
+		]
+	},
+	{
+		"identifier": "psychology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Psychology",
+				"description": "This user works in the field of Psychology"
+			}
+		]
+	},
+	{
+		"identifier": "psychotherapy",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Psychotherapy",
+				"description": "This user works in the field of Psychotherapy"
+			}
+		]
+	},
+	{
+		"identifier": "neuropsychology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Neuropsychology",
+				"description": "This user works in the field of Neuropsychology"
+			}
+		]
+	},
+	{
+		"identifier": "poison-control",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Poison Control",
+				"description": "This user works in the field of Poison Control"
+			}
+		]
+	},
+	{
+		"identifier": "radiation-therapy",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Radiation Therapy",
+				"description": "This user works in the field of Radiation Therapy"
+			}
+		]
+	},
+	{
+		"identifier": "speech-therapy",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Speech Therapy",
+				"description": "This user works in the field of Speech Therapy"
+			}
+		]
+	},
+	{
+		"identifier": "spiritual-care",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Spiritual Care",
+				"description": "This user works in the field of Spiritual Care"
+			}
+		]
+	}
+]

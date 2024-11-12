@@ -1,0 +1,492 @@
+[
+	{
+		"identifier": "internal-medicine",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Internal Medicine",
+				"description": "This user works in the field of Internal Medicine"
+			}
+		]
+	},
+	{
+		"identifier": "adult-congenital-heart-disease",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Adult Congenital Heart Disease",
+				"description": "This user works in the field of Adult Congenital Heart Disease"
+			}
+		]
+	},
+	{
+		"identifier": "aerospace-medicine",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Aerospace Medicine",
+				"description": "This user works in the field of Aerospace Medicine"
+			}
+		]
+	},
+	{
+		"identifier": "allergy-immunology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Allergy/Immunology",
+				"description": "This user works in the field of Allergy/Immunology"
+			}
+		]
+	},
+	{
+		"identifier": "cardiac-electrophysiology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Cardiac Electrophysiology",
+				"description": "This user works in the field of Clinical Cardiac Electrophysiology"
+			}
+		]
+	},
+	{
+		"identifier": "cardiology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Cardiology",
+				"description": "This user works in the field of Cardiology"
+			}
+		]
+	},
+	{
+		"identifier": "cosmetic-dermatology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Cosmetic Dermatology",
+				"description": "This user works in the field of Cosmetic Dermatology"
+			}
+		]
+	},
+	{
+		"identifier": "critical-care-medicine",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Critical Care Medicine",
+				"description": "This user works in the field of Critical Care Medicine"
+			}
+		]
+	},
+	{
+		"identifier": "dermatology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Dermatology",
+				"description": "This user works in the field of Dermatology"
+			}
+		]
+	},
+	{
+		"identifier": "dermatologic-oncology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Dermatologic Oncology",
+				"description": "This user works in the field of Dermatologic Oncology"
+			}
+		]
+	},
+	{
+		"identifier": "endocrinology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Endocrinology",
+				"description": "This user works in the field of Endocrinology"
+			}
+		]
+	},
+	{
+		"identifier": "gastroenterology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Gastroenterology",
+				"description": "This user works in the field of Gastroenterology"
+			}
+		]
+	},
+	{
+		"identifier": "genetics",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Genetics",
+				"description": "This user works in the field of Genetics"
+			}
+		]
+	},
+	{
+		"identifier": "hematology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Hematology",
+				"description": "This user works in the field of Hematology"
+			}
+		]
+	},
+	{
+		"identifier": "heme-onc",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Heme/Onc",
+				"description": "This user works in the field of Hematology & Medical Oncology"
+			}
+		]
+	},
+	{
+		"identifier": "hepatology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Hepatology",
+				"description": "This user works in the field of Hepatology"
+			}
+		]
+	},
+	{
+		"identifier": "hiv-medicine",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "HIV Medicine",
+				"description": "This user works in the field of HIV Medicine"
+			}
+		]
+	},
+	{
+		"identifier": "hospital-medicine",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Hospital Medicine",
+				"description": "This user works in the field of Hospital Medicine"
+			}
+		]
+	},
+	{
+		"identifier": "hypertension",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Hypertension",
+				"description": "This user works in the field of Cardiology, with a focus on the management of Hypertension"
+			}
+		]
+	},
+	{
+		"identifier": "im-anesthesiology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "IM/Anesthesiology",
+				"description": "This user works in the field of Internal Medicine/Anesthesiology"
+			}
+		]
+	},
+	{
+		"identifier": "im-derm",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "IM/Derm",
+				"description": "This user works in the field of Internal Medicine"
+			}
+		]
+	},
+	{
+		"identifier": "im-em",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "IM/EM",
+				"description": "This user works in the field of Internal Medicine/Emergency Medicine"
+			}
+		]
+		
+	},
+	{
+		"identifier": "im-em-critical-care",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "IM/EM/Critical Care",
+				"description": "This user works in the field of Internal Medicine/Emergency Medicine/Critical Care Medicine"
+			}
+		]
+		
+	},
+	{
+		"identifier": "im-fm",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "IM/FM",
+				"description": "This user works in the field of Internal Medicine/Family Medicine"
+			}
+		]
+		
+	},
+	{
+		"identifier": "im-genetics",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "IM/Genetics",
+				"description": "This user works in the field of Internal Medicine/Medical Genetics & Genomics"
+			}
+		]
+		
+	},
+	{
+		"identifier": "im-peds",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "IM/Peds",
+				"description": "This user works in the field of Internal Medicine/Pediatrics"
+			}
+		]
+		
+	},
+	{
+		"identifier": "im-physiatry",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "IM/Physiatry",
+				"description": "This user works in the field of Internal Medicine/Physical Medicine & Rehabilitation"
+			}
+		]
+		
+	},
+	{
+		"identifier": "im-pm",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "IM/PM",
+				"description": "This user works in the field of Internal Medicine/Preventive Medicine"
+			}
+		]
+		
+	},
+	{
+		"identifier": "im-psych",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "IM/Psych",
+				"description": "This user works in the field of Internal Medicine/Psychiatry"
+			}
+		]
+	},
+	
+	
+
+	{
+    "identifier": "immunodermatology",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Immunodermatology",
+        "description": "This user works in the field of Immunodermatology"
+      }
+    ]
+  },
+  {
+    "identifier": "infectious-disease",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Infectious Disease",
+        "description": "This user works in the field of Infectious Disease"
+      }
+    ]
+  },
+  {
+    "identifier": "interventional-cardiology",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Interventional Cardiology",
+        "description": "This user works in the field of Interventional Cardiology"
+      }
+    ]
+  },
+  {
+    "identifier": "interventional-pulmonology",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Interventional Pulmonology",
+        "description": "This user works in the field of Interventional Pulmonology"
+      }
+    ]
+  },
+  {
+    "identifier": "msk-oncology",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "MSK Oncology",
+        "description": "This user works in the field of Musculoskeletal Oncology"
+      }
+    ]
+  },
+  {
+    "identifier": "nephrology",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Nephrology",
+        "description": "This user works in the field of Nephrology"
+      }
+    ]
+  },
+  {
+    "identifier": "nuclear-medicine",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Nuclear Medicine",
+        "description": "This user works in the field of Nuclear Medicine"
+      }
+    ]
+  },
+  {
+    "identifier": "oncology",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Oncology",
+        "description": "This user works in the field of Oncology"
+      }
+    ]
+  },
+  {
+    "identifier": "pulm-critical-care",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pulm/Critical Care",
+        "description": "This user works in the field of Pulmonology & Critical Care Medicine"
+      }
+    ]
+  },
+  {
+    "identifier": "pulmonology",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pulmonology",
+        "description": "This user works in the field of Pulmonology"
+      }
+    ]
+  },
+  {
+    "identifier": "radiation-oncology",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Rad Onc",
+        "description": "This user works in the field of Radiation Oncology"
+      }
+    ]
+  },
+  {
+    "identifier": "rheumatology",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Rheumatology",
+        "description": "This user works in the field of Rheumatology"
+      }
+    ]
+  },
+  {
+    "identifier": "sickle-cell-disease",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Sickle Cell Disease",
+        "description": "This user works in the field of Hematology, with a focus on the management of Sickle Cell Disease"
+      }
+    ]
+  },
+  {
+    "identifier": "sleep-medicine",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Sleep Medicine",
+        "description": "This user works in the field of Sleep Medicine"
+      }
+    ]
+  },
+  {
+    "identifier": "space-medicine",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Space Medicine",
+        "description": "This user works in the field of Space Medicine"
+      }
+    ]
+  },
+  {
+    "identifier": "transfusion-medicine",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Transfusion Medicine",
+        "description": "This user works in the field of Blood Banking/Transfusion Medicine"
+      }
+    ]
+  },
+  {
+    "identifier": "transgender-medicine",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Transgender Medicine",
+        "description": "This user works in the field of Transgender Medicine"
+      }
+    ]
+  },
+  {
+    "identifier": "transplant-medicine",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Transplant Medicine",
+        "description": "This user works in the field of Transplant Medicine"
+      }
+    ]
+  },
+  {
+    "identifier": "undersea-hyperbaric-medicine",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Undersea & Hyperbaric Medicine",
+        "description": "This user works in the field of Undersea & Hyperbaric Medicine"
+      }
+    ]
+  }
+]

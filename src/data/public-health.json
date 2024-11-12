@@ -1,0 +1,82 @@
+[
+	{
+		"identifier": "public-health",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Public Health",
+				"description": "This user works in the field of Public Health"
+			}
+		]
+	},
+	{
+		"identifier": "community-medicine",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Community Medicine",
+				"description": "This user works in the field of Community Medicine"
+			}
+		]
+	},
+	{
+		"identifier": "epidemiology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Epidemiology",
+				"description": "This user works in the field of Epidemiology"
+			}
+		]
+	},
+	{
+		"identifier": "global-health",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Global Health",
+				"description": "This user works in the field of Global Health"
+			}
+		]
+	},
+	{
+		"identifier": "health-policy",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Health Policy",
+				"description": "This user works in the field of Healthcare Policy"
+			}
+		]
+	},
+	{
+		"identifier": "occupational-environmental-medicine",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Occupational & Environmental Medicine",
+				"description": "This user works in the field of Occupational & Environmental Medicine"
+			}
+		]
+	},
+	{
+		"identifier": "population-health",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Population Health",
+				"description": "This user works in the field of Population Health"
+			}
+		]
+	},
+	{
+		"identifier": "preventive-medicine",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Preventive Medicine",
+				"description": "This user works in the field of General Preventive Medicine"
+			}
+		]
+	}
+]

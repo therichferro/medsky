@@ -1,18 +1,21 @@
+import { ComAtprotoLabelDefs } from '@atproto/api';
 import { LabelerServer } from '@skyware/labeler';
 import { Bot, Post } from '@skyware/bot';
 import { LabelType } from './type.js';
-import { fields } from './fields.js';
+import { labels } from './labels.js';
 import chalk from 'chalk';
 import express, { Request, Response } from 'express';
 import Database from 'better-sqlite3';
 import 'dotenv/config';
 
-const allFields = Object
-  .values(fields)
-  .map((field) => field.values.reduce((acc, val: any) => acc.concat(val.slug), []))
-  .reduce((acc, val) => acc.concat(val), [])
+const allLabels = Object
+  .values(labels)
+  .map((label) => label.values.reduce((acc, val: any) => acc.concat(val.identifier), []))
+  .reduce((acc, val) => acc.concat(val), []);
 
-console.log("All fields: " + allFields);
+console.log("All labels: " + allLabels);
+
+const MAXLABELS = 4;
 
 const server = new LabelerServer({
   did: process.env.LABELER_DID!,
@@ -38,6 +41,14 @@ const availableLabels = new Map<string, LabelType>();
 server.db.prepare('SELECT * FROM labels_definitions').all().forEach((row: any) => availableLabels.set(row.uri as string, row as LabelType));
 
 bot.on('like', async ({ subject, user }) => {
+  const query = server.db.prepare<string[]>('SELECT * FROM labels WHERE uri = ? ORDER BY val').all(user.did) as ComAtprotoLabelDefs.Label[];
+
+  const userLabels = query.reduce((set, label) => {
+    if (!label.neg) set.add(label.val);
+    else set.delete(label.val);
+    return set;
+  }, new Set<string>());
+
   const handle = chalk.underline(user.handle);
   if (!(subject instanceof Post)) {
     console.log(chalk.cyan("[L] " + handle + ' liked the labeler!'));
@@ -51,16 +62,22 @@ bot.on('like', async ({ subject, user }) => {
   }
 
   if (label.delete_trigger) {
-    let userLabels = server.db.prepare('SELECT * FROM labels WHERE uri = ?').all(user.did);
-    console.log(chalk.red('[D] Deleting ' + handle + ' labels: ' + userLabels.map((label: any) => label.val)));
-
-    server.createLabels({ uri: user.did }, { negate: [...allFields, 'clear'] });
-    
+    server.createLabels({ uri: user.did }, { negate: Array.from(userLabels) });
     server.db.prepare('DELETE FROM labels WHERE uri = ?').run(user.did);
+    console.log(chalk.red('[D] Deleting ' + handle + ' labels: ' + Array.from(userLabels).map((label: any) => label)));
     return;
   }
 
-  server.createLabel({ uri: user.did, val: label.slug });
+  if (userLabels.size === MAXLABELS) {
+    const firstLabel = userLabels.values().next().value;
+    server.createLabels({ uri: user.did }, { negate: [firstLabel]});
+    console.log(chalk.red('[D] Deleting ' + handle + ' label: ' + firstLabel));
+    server.createLabel({ uri: user.did, val: label.identifier });
+    console.log(chalk.green('[N] Labeling ' + handle + ' with ' + label.name ));
+    return;
+  }
+
+  server.createLabel({ uri: user.did, val: label.identifier });
   console.log(chalk.green('[N] Labeling ' + handle + ' with ' + label.name ));
 });
 

@@ -1,0 +1,112 @@
+[
+	{
+		"identifier": "pathology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Pathology",
+				"description": "This user works in the field of Pathology"
+			}
+		]
+	},
+	{
+		"identifier": "clinical-informatics",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Clinical Informatics",
+				"description": "This user works in the field of Clinical Informatics"
+			}
+		]
+	},
+	{
+		"identifier": "clinical-research",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Clinical Research",
+				"description": "This user works in the field of Clinical Research"
+			}
+		]
+	},
+	{
+		"identifier": "clinical-trials",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Clinical Trials",
+				"description": "This user works in the field of Clinical Trials"
+			}
+		]
+	},
+	{
+		"identifier": "cytopathology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Cytopathology",
+				"description": "This user works in the field of Cytopathology"
+			}
+		]
+	},
+	{
+		"identifier": "dermatopathology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Dermatopathology",
+				"description": "This user works in the field of Dermatopathology"
+			}
+		]
+	},
+	{
+		"identifier": "forensic-pathology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Forensic Pathology",
+				"description": "This user works in the field of Forensic Pathology"
+			}
+		]
+	},
+	{
+		"identifier": "hematopathology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Hematopathology",
+				"description": "This user works in the field of Hematopathology"
+			}
+		]
+	},
+	{
+		"identifier": "medical-microbiology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Medical Microbiology",
+				"description": "This user works in the field of Medical Microbiology"
+			}
+		]
+	},
+	{
+		"identifier": "ophthalmic-pathology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Ophthalmic Pathology",
+				"description": "This user works in the field of Ophthalmic Pathology"
+			}
+		]
+	},
+	{
+		"identifier": "research-development",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Research & Development",
+				"description": "This user works in the field of Clinical Research & Development"
+			}
+		]
+	}
+]

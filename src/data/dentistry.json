@@ -1,0 +1,92 @@
+[
+	{
+		"identifier": "general-dentistry",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "General Dentistry",
+				"description": "This user works in the field of General Dentistry"
+			}
+		]
+	},
+	{
+		"identifier": "cosmetic-dentistry",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Cosmetic Dentistry",
+				"description": "This user works in the field of Cosmetic Dentistry"
+			}
+		]
+	},
+	{
+		"identifier": "endodontics",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Endodontics",
+				"description": "This user works in the field of Endodontics"
+			}
+		]
+	},
+	{
+		"identifier": "family-dentistry",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Family Dentistry",
+				"description": "This user works in the field of Family Dentistry"
+			}
+		]
+	},
+	{
+		"identifier": "omfs",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "OMFS",
+				"description": "This user works in the field of Oral & Maxillofacial Surgery"
+			}
+		]
+	},
+	{
+		"identifier": "orthodontics",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Orthodontics",
+				"description": "This user works in the field of Orthodontics"
+			}
+		]
+	},
+	{
+		"identifier": "pediatric-dentistry",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Pediatric Dentistry",
+				"description": "This user works in the field of Pediatric Dentistry"
+			}
+		]
+	},
+	{
+		"identifier": "periodontics",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Periodontics",
+				"description": "This user works in the field of Periodontics"
+			}
+		]
+	},
+	{
+		"identifier": "prosthodontics",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Prosthodontics",
+				"description": "This user works in the field of Prosthodontics"
+			}
+		]
+	}
+]

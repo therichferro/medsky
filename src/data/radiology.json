@@ -1,0 +1,132 @@
+[
+	{
+		"identifier": "radiology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Radiology",
+				"description": "This user works in the field of Radiology"
+			}
+		]
+	},
+	{
+		"identifier": "ct-technology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "CT Technology",
+				"description": "This user works in the field of CT Technology"
+			}
+		]
+	},
+	{
+		"identifier": "diagnostic-radiology-nuclear-medicine",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Diagnostic Radiology/Nuclear Medicine",
+				"description": "This user works in the field of Diagnostic Radiology/Nuclear Medicine"
+			}
+		]
+	},
+	{
+		"identifier": "fluoroscopy",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Fluoroscopy",
+				"description": "This user works in the field of Fluoroscopy"
+			}
+		]
+	},
+	{
+		"identifier": "interventional-radiology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Interventional Radiology",
+				"description": "This user works in the field of Interventional Radiology"
+			}
+		]
+	},
+	{
+		"identifier": "mammography",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Mammography",
+				"description": "This user works in the field of Mammography"
+			}
+		]
+	},
+	{
+		"identifier": "abdominal-radiology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Abdominal Radiology",
+				"description": "This user works in the field of Abdominal Radiology"
+			}
+		]
+	},
+	{
+		"identifier": "diagnostic-radiology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Diagnostic Radiology",
+				"description": "This user works in the field of Radiology-Diagnostic"
+			}
+		]
+	},
+	{
+		"identifier": "mri-technology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "MRI Technology",
+				"description": "This user works in the field of MRI Technology"
+			}
+		]
+	},
+	{
+		"identifier": "msk-radiology",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "MSK Radiology",
+				"description": "This user works in the field of Musculoskeletal Radiology"
+			}
+		]
+	},
+	{
+		"identifier": "pocus",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "POCUS",
+				"description": "This user works in the field of Point of Care Ultrasound"
+			}
+		]
+	},
+	{
+		"identifier": "radiography",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Radiography",
+				"description": "This user works in the field of Radiography"
+			}
+		]
+	},
+	{
+		"identifier": "ultrasound",
+		"locales": [
+			{
+				"lang": "en",
+				"name": "Ultrasound",
+				"description": "This user works in the field of Ultrasound"
+			}
+		]
+	}
+]

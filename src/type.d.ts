@@ -1,5 +1,5 @@
 export type LabelType = {
-  slug: string;
+  identifier: string;
   name: string;
   description: string;
   uri: string;
