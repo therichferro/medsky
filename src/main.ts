@@ -74,7 +74,6 @@ bot.on('like', async ({ subject, user }) => {
     server.db.prepare('DELETE FROM labels WHERE uri = ?').run(user.did);
 
     for (const label of userLabels) {
-      console.log(label);
       await removeFromList(label, user.did);
     }
 
@@ -96,7 +95,6 @@ bot.on('like', async ({ subject, user }) => {
   }
 
   server.createLabel({ uri: user.did, val: label.identifier });
-  console.log(label.identifier);
   await addToList(label.identifier, user.did);
   await addToList('medsky', user.did);
   console.log(chalk.green('[N] Labeling ' + handle + ' with ' + label.name ));
@@ -105,9 +103,6 @@ bot.on('like', async ({ subject, user }) => {
 async function addToList (listName: string, userDid: string) {
   const listUri = server.db.prepare('SELECT uri FROM lists_definitions WHERE name = ?').get(listName) as { uri: string };
   if(listUri?.uri) {
-    console.log('listName', listName);
-    console.log('listUri', listUri?.uri);
-    console.log('userDid', userDid);
     const record = await agent.com.atproto.repo.createRecord({
       repo: process.env.LABELER_DID!,
       collection: 'app.bsky.graph.listitem',
@@ -124,7 +119,6 @@ async function addToList (listName: string, userDid: string) {
 
 async function removeFromList (listName: string, userDid: string) {
   const listUri = server.db.prepare('SELECT uri FROM lists WHERE name = ? AND userUri = ?').get(listName, userDid) as { uri: string };
-  console.log('listUri', listUri?.uri);
   if (listUri?.uri) {
     const {collection, rkey} = new AtUri(listUri?.uri)
     await agent.com.atproto.repo.deleteRecord({
