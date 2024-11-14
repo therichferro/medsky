@@ -1,4 +1,4 @@
-import { ComAtprotoLabelDefs } from '@atproto/api';
+import { AtpAgent, AtUri, ComAtprotoLabelDefs } from '@atproto/api';
 import { LabelerServer } from '@skyware/labeler';
 import { Bot, Post } from '@skyware/bot';
 import { LabelType } from './type.js';
@@ -36,6 +36,14 @@ await bot.login({
   password: process.env.LABELER_PASSWORD!,
 });
 
+const agent = new AtpAgent({
+  service: 'https://bsky.social',
+});
+await agent.login({
+  identifier: process.env.LABELER_DID!,
+  password: process.env.LABELER_PASSWORD!,
+});
+
 const availableLabels = new Map<string, LabelType>();
 
 server.db.prepare('SELECT * FROM labels_definitions').all().forEach((row: any) => availableLabels.set(row.uri as string, row as LabelType));
@@ -64,6 +72,14 @@ bot.on('like', async ({ subject, user }) => {
   if (label.delete_trigger) {
     server.createLabels({ uri: user.did }, { negate: Array.from(userLabels) });
     server.db.prepare('DELETE FROM labels WHERE uri = ?').run(user.did);
+
+    for (const label of userLabels) {
+      console.log(label);
+      await removeFromList(label, user.did);
+    }
+
+    await removeFromList('medsky', user.did);
+
     console.log(chalk.red('[D] Deleting ' + handle + ' labels: ' + Array.from(userLabels).map((label: any) => label)));
     return;
   }
@@ -71,15 +87,54 @@ bot.on('like', async ({ subject, user }) => {
   if (userLabels.size === MAXLABELS) {
     const firstLabel = userLabels.values().next().value;
     server.createLabels({ uri: user.did }, { negate: [firstLabel]});
+    await removeFromList(firstLabel, user.did);
     console.log(chalk.red('[D] Deleting ' + handle + ' label: ' + firstLabel));
     server.createLabel({ uri: user.did, val: label.identifier });
+    await addToList(label.identifier, user.did);
     console.log(chalk.green('[N] Labeling ' + handle + ' with ' + label.name ));
     return;
   }
 
   server.createLabel({ uri: user.did, val: label.identifier });
+  console.log(label.identifier);
+  await addToList(label.identifier, user.did);
+  await addToList('medsky', user.did);
   console.log(chalk.green('[N] Labeling ' + handle + ' with ' + label.name ));
 });
+
+async function addToList (listName: string, userDid: string) {
+  const listUri = server.db.prepare('SELECT uri FROM lists_definitions WHERE name = ?').get(listName) as { uri: string };
+  if(listUri?.uri) {
+    console.log('listName', listName);
+    console.log('listUri', listUri?.uri);
+    console.log('userDid', userDid);
+    const record = await agent.com.atproto.repo.createRecord({
+      repo: process.env.LABELER_DID!,
+      collection: 'app.bsky.graph.listitem',
+      record: {
+        $type: "app.bsky.graph.listitem",
+        subject: userDid,
+        list: listUri?.uri,
+        createdAt: new Date().toISOString(),
+      },
+    });
+    server.db.prepare('INSERT INTO lists (name, uri, userUri) VALUES (?, ?, ?);').run(listName, record.data.uri, userDid);
+  }
+}
+
+async function removeFromList (listName: string, userDid: string) {
+  const listUri = server.db.prepare('SELECT uri FROM lists WHERE name = ? AND userUri = ?').get(listName, userDid) as { uri: string };
+  console.log('listUri', listUri?.uri);
+  if (listUri?.uri) {
+    const {collection, rkey} = new AtUri(listUri?.uri)
+    await agent.com.atproto.repo.deleteRecord({
+      repo: process.env.LABELER_DID!,
+      collection,
+      rkey
+    });
+    server.db.prepare('DELETE FROM lists WHERE name = ? AND userUri = ?').run(listName, userDid);
+  }
+}
 
 
 // Metrics
