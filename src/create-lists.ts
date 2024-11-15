@@ -13,10 +13,6 @@ interface User {
 	val?: string
 }
 
-interface Lists {
-	uri: string
-}
-
 const createLists = async (server: LabelerServer) => {
 	server.db.prepare(
 		'CREATE TABLE IF NOT EXISTS lists_definitions (name TEXT, uri TEXT);',
@@ -52,15 +48,15 @@ const createLists = async (server: LabelerServer) => {
 	
 		console.log(deleteList)
 	} */
-
-	/* server.db.prepare('INSERT INTO lists_definitions (name, uri) VALUES (?, ?);').run('medsky', 'at://did:plc:fmug4zegnl7lf6ljp7aokpeh/app.bsky.graph.list/3lasv7fqfxk2x'); */
 	
 
 	// Create general list
-	/* const listExists = server.db.prepare('SELECT * FROM lists_definitions WHERE name = ?').get('medsky') as { uri: string };
+	const listExists = server.db.prepare('SELECT * FROM lists_definitions WHERE name = ?').get('medsky') as { uri: string };
 	let listUri = listExists?.uri;
 
 	while (!listUri) {
+		console.log (`List doesn't exist, creating it:`, 'medsky');
+
 		const { data: newList } = await agent.com.atproto.repo.createRecord({
 			repo: process.env.LABELER_DID!,
 			collection: 'app.bsky.graph.list',
@@ -80,12 +76,14 @@ const createLists = async (server: LabelerServer) => {
 		}
 	}
 	
+	// Add users to list
 	const uniqueUsers  = server.db.prepare('SELECT DISTINCT uri from labels;').all() as User[];
-	
 	for (const user of uniqueUsers) {
 		const userListed = server.db.prepare('SELECT uri FROM lists WHERE name = ? AND userUri = ?').get('medsky', user.uri) as { uri: string };
 
 		if (!userListed?.uri) {
+			console.log ('Adding user.');
+
 			const record = await agent.com.atproto.repo.createRecord({
 				repo: process.env.LABELER_DID!,
 				collection: 'app.bsky.graph.listitem',
@@ -99,9 +97,9 @@ const createLists = async (server: LabelerServer) => {
 			server.db.prepare('INSERT INTO lists (name, uri, userUri) VALUES (?, ?, ?);').run('medsky', record.data.uri, user.uri);
 			console.log(record);
 		}
-	} */
+	}
 	
-	
+	// Create lists for each label
 	for (const [_id, { description, values }] of Object.entries(labels)) {
 		if (description === labels?.clearAll?.description) {
 			break;
@@ -115,7 +113,7 @@ const createLists = async (server: LabelerServer) => {
 			let listUri = listExists?.uri;
 
 			while (!listUri) {
-				console.log ('não existe, criando', identifier);
+				console.log (`List doesn't exist, creating it:`, identifier);
 				const { data, success } = await agent.com.atproto.repo.createRecord({
 					repo: process.env.LABELER_DID!,
 					collection: 'app.bsky.graph.list',
@@ -134,13 +132,13 @@ const createLists = async (server: LabelerServer) => {
 				}
 			}
 
+			// Add users to list
 			const users  = server.db.prepare('SELECT uri, val FROM labels WHERE val = ?').all(identifier) as User[];
-			
 			for (const user of users) {
 				const userListed = server.db.prepare('SELECT uri FROM lists WHERE name = ? AND userUri = ?').get(identifier, user.uri) as { uri: string };
 
 				if (!userListed?.uri) {
-					console.log ('adicionando usuários');
+					console.log ('Adding user.');
 
 					const { data, success, headers } = await agent.com.atproto.repo.createRecord({
 						repo: process.env.LABELER_DID!,
