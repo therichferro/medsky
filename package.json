@@ -4,9 +4,11 @@
   "author": "Willian Cima <williancima@gmail.com> (https://williancima.dev/)",
   "type": "module",
   "scripts": {
+    "setup-lists": "npx tsx src/setup-lists.ts",
     "setup": "npx tsx src/setup.ts",
     "clear": "npx tsx src/clear-posts.ts",
     "start": "npx tsx --watch src/main.ts",
+    "metrics": "npx tsx --watch src/metrics.ts",
     "pm2:start": "pm2 start ecosystem.config.cjs"
   },
   "devDependencies": {
