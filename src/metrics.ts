@@ -54,7 +54,7 @@ function getUniqueURICount(dbPath: string): number {
 
 const app = express();
 
-app.get('/metrics', (req: Request, res: Response) => {
+app.get('/unique', (req: Request, res: Response) => {
   try {
     const count = getUniqueURICount(dbPath);
     res.send(`Number of unique users in the Medsky database: ${count}`);
@@ -74,7 +74,7 @@ app.get('/user-growth', (req: Request, res: Response) => {
   }
 });
 
-app.use('/growth', express.static(path.join(__dirname, '../public')));
+app.use('/metrics', express.static(path.join(__dirname, '../public')));
 
 app.listen(4000, () => {
   console.log('Metrics running on port 4000!');

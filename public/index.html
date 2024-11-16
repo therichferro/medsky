@@ -3,17 +3,15 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>User Growth Chart</title>
+	<title>Medsky Metrics</title>
 	<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom"></script>
-
-	
 </head>
 <body>
-	<h2>User Growth Over Time</h2>
+	<h2>Number of unique users in the Medsky database: <span id="total"></span></h2>
 	<div style="position: relative; height:80vh; width:80vw"><canvas id="userGrowthChart"></canvas></div>
-	
+
 	<script>
 		async function fetchUserGrowthData() {
 			const response = await fetch('/user-growth');
@@ -26,6 +24,7 @@
 			const userCounts = data.map(entry => entry.userCount);
 			const total = data.reduce((acc, value) => acc + value.userCount, 0);
 			
+			document.getElementById('total').textContent = total;
 			const ctx = document.getElementById('userGrowthChart').getContext('2d');
 			new Chart(ctx, {
 				type: 'bar',
@@ -48,8 +47,8 @@
 								tooltipFormat: 'PP'
 							},
 							/*ticks: {
-								autoSkip: true,
-								maxTicksLimit: 10
+							autoSkip: true,
+							maxTicksLimit: 10
 							} */
 						},
 						y: {
