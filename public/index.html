@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>User Growth Chart</title>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-zoom"></script>
+
+	
+</head>
+<body>
+	<h2>User Growth Over Time</h2>
+	<div style="position: relative; height:80vh; width:80vw"><canvas id="userGrowthChart"></canvas></div>
+	
+	<script>
+		async function fetchUserGrowthData() {
+			const response = await fetch('/user-growth');
+			return response.json();
+		}
+		
+		async function renderChart() {
+			const data = await fetchUserGrowthData();
+			const dates = data.map(entry => entry.date);
+			const userCounts = data.map(entry => entry.userCount);
+			const total = data.reduce((acc, value) => acc + value.userCount, 0);
+			
+			const ctx = document.getElementById('userGrowthChart').getContext('2d');
+			new Chart(ctx, {
+				type: 'bar',
+				data: {
+					labels: dates,
+					datasets: [{
+						label: 'New users per day',
+						data: userCounts,
+						fill: true,
+					}]
+				},
+				options: {
+					responsive: true,
+					maintainAspectRatio: false,
+					scales: {
+						x: {
+							type: 'time',
+							time: {
+								unit: 'day',
+								tooltipFormat: 'PP'
+							},
+							/*ticks: {
+								autoSkip: true,
+								maxTicksLimit: 10
+							} */
+						},
+						y: {
+							beginAtZero: true
+						}
+					},
+					plugins: {
+						tooltip: {
+							callbacks: {
+								title: function(tooltipItem) {
+									const date = tooltipItem[0].label;
+									const formattedDate = new Date(date).toLocaleDateString('en-US', {
+										month: 'short',
+										day: '2-digit',
+										year: 'numeric'
+									});
+									return formattedDate;
+								},
+								label: function(tooltipItem) {
+									return `${tooltipItem.raw}`;
+								}
+							}
+						},
+						zoom: {
+							zoom: {
+								wheel: {
+									enabled: true,
+								},
+								pinch: {
+									enabled: true
+								},
+								mode: 'x',
+							}
+						}
+					}
+				},
+			});
+		}
+		
+		renderChart();
+	</script>
+</body>
+</html>

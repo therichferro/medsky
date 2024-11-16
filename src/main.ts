@@ -4,8 +4,6 @@ import { Bot, Post } from '@skyware/bot';
 import { LabelType } from './type.js';
 import { labels } from './labels.js';
 import chalk from 'chalk';
-import express, { Request, Response } from 'express';
-import Database from 'better-sqlite3';
 import 'dotenv/config';
 
 const allLabels = Object
@@ -88,8 +86,10 @@ bot.on('like', async ({ subject, user }) => {
 
 async function labelUser(userDid: string, label: LabelType, handle: string) {
   server.createLabel({ uri: userDid, val: label.identifier });
+
   await addToList(label.identifier, userDid);
   await addToList('medsky', userDid);
+  
   console.log(chalk.green(`[N] Labeling ${handle} with ${label.name}`));
 }
 
@@ -156,32 +156,15 @@ async function removeFromList (listName: string, userDid: string) {
   }
 }
 
-
-// Metrics
-
-const dbPath = '/home/medsky/labels.db';
-
-function getUniqueURICount(dbPath: string): number {
-  const db = new Database(dbPath, { readonly: true });
+function shutdown() {
   try {
-    const row: { count: number } = db.prepare('SELECT COUNT(DISTINCT uri) AS count FROM labels').get() as { count: number };
-    return row.count;
-  } finally {
-    db.close();
+    console.log('Shutting down gracefully...');
+    server.stop();
+  } catch (error) {
+    console.log(`Error shutting down gracefully: ${error}`);
+    process.exit(1);
   }
 }
 
-const app = express();
-app.get('/metrics', (req: Request, res: Response) => {
-  try {
-    const count = getUniqueURICount(dbPath);
-    res.send(`Number of unique users in the Medsky database: ${count}`);
-  } catch (err) {
-    console.error('Error querying the Medsky database:', err);
-    res.status(500).send('Error querying the Medsky database');
-  }
-});
-
-app.listen(4000, () => {
-  console.log('Metrics running on port 4000!');
-});
+process.on('SIGINT', shutdown);
+process.on('SIGTERM', shutdown);
