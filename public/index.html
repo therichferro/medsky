@@ -10,29 +10,124 @@
 </head>
 <body>
 	<h2>Number of unique users in the Medsky database: <span id="total"></span></h2>
-	<div style="position: relative; height:80vh; width:80vw"><canvas id="userGrowthChart"></canvas></div>
-
+	<div style="position: relative; height:80vh; width:80vw; margin-bottom: 40px;"><canvas id="userGrowthChartDaily"></canvas></div>
+	<!-- <div style="position: relative; height:80vh; width:80vw"><canvas id="userGrowthChartHourly"></canvas></div> -->
+	
 	<script>
 		async function fetchUserGrowthData() {
 			const response = await fetch('/user-growth');
 			return response.json();
 		}
 		
-		async function renderChart() {
+		async function renderHourlyChart() {
 			const data = await fetchUserGrowthData();
-			const dates = data.map(entry => entry.date);
-			const userCounts = data.map(entry => entry.userCount);
-			const total = data.reduce((acc, value) => acc + value.userCount, 0);
+			
+			const now = Date.now();
+			const oneWeekAgo = now - 5 * 24 * 60 * 60 * 1000;
+			
+			const hourlyData = data.hourly;
+			
+			const filteredData = hourlyData.filter(entry => {
+				const entryDate = Date.parse(entry.datetime + 'Z');
+				return entryDate >= oneWeekAgo && entryDate <= now;
+			});
+			
+			const hourlyLabels = filteredData.map(entry => `${entry.datetime}Z`);
+			const hourlyCounts = filteredData.map(entry => entry.userCount);
+			
+			const ctx = document.getElementById('userGrowthChartHourly').getContext('2d');
+			new Chart(ctx, {
+				type: 'line',
+				data: {
+					labels: hourlyLabels,
+					datasets: [{
+						label: 'New users per hour (last 5 days)',
+						data: hourlyCounts,
+						fill: false,
+						borderColor: '#ff6384',
+						tension: 0.4,
+					}]
+				},
+				options: {
+					responsive: true,
+					maintainAspectRatio: false,
+					scales: {
+						x: {
+							type: 'time',
+							time: {
+								unit: 'hour',
+								tooltipFormat: 'PPpp'
+							},
+							ticks: {
+								autoSkip: false,
+								callback: function(value, index, values) {
+									const date = new Date(value);
+									return date.toLocaleTimeString('en-US', {
+										hour: 'numeric',
+										hour12: true,
+										timeZone: 'UTC'
+									});
+								}
+							}
+						},
+						y: {
+							beginAtZero: true
+						}
+					},
+					plugins: {
+						tooltip: {
+							callbacks: {
+								title: function(tooltipItem) {
+									const dateTime = tooltipItem[0].label;
+									const formattedDateTime = new Date(dateTime).toLocaleString('en-US', {
+										month: 'short',
+										day: '2-digit',
+										year: 'numeric',
+										hour: '2-digit',
+										minute: '2-digit',
+										timeZone: 'UTC'
+									});
+									return formattedDateTime;
+								},
+								label: function(tooltipItem) {
+									return `${tooltipItem.raw}`;
+								}
+							}
+						},
+						zoom: {
+							zoom: {
+								wheel: {
+									enabled: true,
+								},
+								pinch: {
+									enabled: true
+								},
+								mode: 'x',
+							}
+						}
+					}
+				},
+			});
+		}
+		
+		async function renderDailyChart() {
+			const data = await fetchUserGrowthData();
+			
+			const dailyData = data.daily;
+			const dailyLabels = dailyData.map(entry => entry.date);
+			const dailyounts = dailyData.map(entry => entry.userCount);
+			
+			const total = dailyData.reduce((acc, value) => acc + value.userCount, 0);
 			
 			document.getElementById('total').textContent = total;
-			const ctx = document.getElementById('userGrowthChart').getContext('2d');
+			const ctx = document.getElementById('userGrowthChartDaily').getContext('2d');
 			new Chart(ctx, {
 				type: 'bar',
 				data: {
-					labels: dates,
+					labels: dailyLabels,
 					datasets: [{
 						label: 'New users per day',
-						data: userCounts,
+						data: dailyounts,
 						fill: true,
 					}]
 				},
@@ -63,7 +158,8 @@
 									const formattedDate = new Date(date).toLocaleDateString('en-US', {
 										month: 'short',
 										day: '2-digit',
-										year: 'numeric'
+										year: 'numeric',
+										timeZone: 'UTC'
 									});
 									return formattedDate;
 								},
@@ -88,7 +184,8 @@
 			});
 		}
 		
-		renderChart();
+		renderDailyChart();
+		//renderHourlyChart();
 	</script>
 </body>
 </html>

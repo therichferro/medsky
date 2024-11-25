@@ -6,17 +6,44 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-interface UserGrowthRow {
+interface UserGrowthHourly {
+  registration_hour: string;
+  user_count: number;
+}
+
+interface UserGrowthDaily {
   registration_day: string;
   user_count: number;
 }
 
 const dbPath = '/home/medsky/labels.db';
 
-function getUniqueUserGrowth(dbPath: string): { date: string; userCount: number }[] {
+function getCombinedUserGrowthData(dbPath: string): {
+  hourly: { datetime: string; userCount: number }[];
+  daily: { date: string; userCount: number }[];
+} {
   const db = new Database(dbPath, { readonly: true });
   try {
-    const query = `
+    const hourlyQuery = `
+      SELECT
+          STRFTIME('%Y-%m-%d %H:00:00', first_date) AS registration_hour,
+          COUNT(uri) AS user_count
+      FROM (
+          SELECT
+              uri,
+              MIN(DATETIME(cts)) AS first_date
+          FROM
+              labels
+          GROUP BY
+              uri
+      ) AS first_occurrences
+      GROUP BY
+          registration_hour
+      ORDER BY
+          registration_hour;
+    `;
+
+    const dailyQuery = `
       SELECT
           DATE(first_date) AS registration_day,
           COUNT(uri) AS user_count
@@ -35,8 +62,19 @@ function getUniqueUserGrowth(dbPath: string): { date: string; userCount: number 
           registration_day;
     `;
 
-    const rows = db.prepare(query).all() as UserGrowthRow[];;
-    return rows.map(row => ({ date: row.registration_day, userCount: row.user_count }));
+    const hourlyData = db.prepare(hourlyQuery).all() as UserGrowthHourly[];
+    const hourlyMap = hourlyData.map(row => ({
+      datetime: row.registration_hour,
+      userCount: row.user_count,
+    }));
+
+    const dailyData = db.prepare(dailyQuery).all() as UserGrowthDaily[];
+    const dailyMap = dailyData.map(row => ({
+      date: row.registration_day,
+      userCount: row.user_count,
+    }));
+
+    return { hourly: hourlyMap, daily: dailyMap };
   } finally {
     db.close();
   }
@@ -66,7 +104,7 @@ app.get('/unique', (req: Request, res: Response) => {
 
 app.get('/user-growth', (req: Request, res: Response) => {
   try {
-    const userGrowthData = getUniqueUserGrowth(dbPath);
+    const userGrowthData = getCombinedUserGrowthData(dbPath);
     res.json(userGrowthData);
   } catch (err) {
     console.error('Error querying user growth data:', err);
