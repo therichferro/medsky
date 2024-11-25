@@ -5,3 +5,8 @@ export type LabelType = {
   uri: string;
   delete_trigger: boolean
 } 
+
+export type ListType = {
+  name: string;
+  uri: string;
+} 

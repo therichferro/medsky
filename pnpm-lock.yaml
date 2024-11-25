@@ -14,6 +14,9 @@ importers:
       '@skyware/bot':
         specifier: ^0.3.7
         version: 0.3.7
+      '@skyware/jetstream':
+        specifier: ^0.2.0
+        version: 0.2.0(@atcute/client@2.0.4)
       '@skyware/labeler':
         specifier: ^0.1.13
         version: 0.1.13
@@ -29,6 +32,9 @@ importers:
       express:
         specifier: ^4.21.1
         version: 4.21.1
+      ws:
+        specifier: ^8.18.0
+        version: 8.18.0
     devDependencies:
       '@types/better-sqlite3':
         specifier: ^7.6.11
@@ -39,6 +45,9 @@ importers:
       '@types/node':
         specifier: ^22.9.0
         version: 22.9.0
+      '@types/ws':
+        specifier: ^8.5.13
+        version: 8.5.13
       typescript:
         specifier: ^5.6.3
         version: 5.6.3
@@ -165,6 +174,9 @@ packages:
   '@skyware/jetstream@0.1.9':
     resolution: {integrity: sha512-87NGqRSmEYmvEuVY0DKZ2ZRbL72tExtDuV+PDvywYqukSp3F/it+9wnU5Xb/Is/pf+KSbd6lWvrnE31HgxJpJg==}
 
+  '@skyware/jetstream@0.2.0':
+    resolution: {integrity: sha512-nydEVe47fc3Cn9yLjk0Tos05pB4PYVOXno8RKlf0QguJUF48ASKx9xA4jUHqEI1dk2oHuHWoXpo9ic+RIgk6yw==}
+
   '@skyware/labeler@0.1.13':
     resolution: {integrity: sha512-VFnVpJ79oKUdP4ydPZLp6qqlXWJdxVlIEKp8JcYRfZybxt0gEGy+v3Rpzh5muf98FQNdi3eAjvt5d9YwM27Zvg==}
     hasBin: true
@@ -204,6 +216,9 @@ packages:
 
   '@types/serve-static@1.15.7':
     resolution: {integrity: sha512-W8Ym+h8nhuRwaKPaDw34QUkwsGi6Rc4yYqvKFo5rm2FUEhCFbzVWrxXUxuKK8TASjWsysJY0nsmNCGhCOIsrOw==}
+
+  '@types/ws@8.5.13':
+    resolution: {integrity: sha512-osM/gWBTPKgHV8XkTunnegTRIsvF6owmf5w+JtAfOw472dptdm0dlGv4xCt6GwQRcC2XVOvvRE/0bAoQcL2QkA==}
 
   abstract-logging@2.0.1:
     resolution: {integrity: sha512-2BjRTZxTPvheOvGbBslFSYOUkr+SjPtOnrLP33f+VIWLzezQpZcqVg7ja3L4dBXmzzgwT+a029jRx5PCi3JuiA==}
@@ -981,6 +996,13 @@ snapshots:
       - '@atcute/client'
     optional: true
 
+  '@skyware/jetstream@0.2.0(@atcute/client@2.0.4)':
+    dependencies:
+      '@atcute/bluesky': 1.0.8(@atcute/client@2.0.4)
+      partysocket: 1.0.2
+    transitivePeerDependencies:
+      - '@atcute/client'
+
   '@skyware/labeler@0.1.13':
     dependencies:
       '@atcute/bluesky': 1.0.8(@atcute/client@2.0.4)
@@ -1047,6 +1069,10 @@ snapshots:
       '@types/http-errors': 2.0.4
       '@types/node': 22.9.0
       '@types/send': 0.17.4
+
+  '@types/ws@8.5.13':
+    dependencies:
+      '@types/node': 22.9.0
 
   abstract-logging@2.0.1: {}
 
@@ -1199,8 +1225,7 @@ snapshots:
 
   etag@1.8.1: {}
 
-  event-target-shim@6.0.2:
-    optional: true
+  event-target-shim@6.0.2: {}
 
   expand-template@2.0.3: {}
 
@@ -1449,7 +1474,6 @@ snapshots:
   partysocket@1.0.2:
     dependencies:
       event-target-shim: 6.0.2
-    optional: true
 
   path-to-regexp@0.1.10: {}
 
