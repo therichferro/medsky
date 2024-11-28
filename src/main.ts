@@ -159,13 +159,13 @@ async function deleteUserLabels(userDid: string, userLabels: Set<string>, handle
   }
   await removeFromList('medsky', userDid);
 
-  server.db.prepare('DELETE FROM labels WHERE uri = ?').run(userDid);
+  //server.db.prepare('DELETE FROM labels WHERE uri = ?').run(userDid);
 }
 
 async function removeAndAddLabel(userDid: string, label: LabelType, firstLabel: string, handle: string) {
   server.createLabels({ uri: userDid }, { negate: [firstLabel] });
   console.log(chalk.red(`[D] Deleting ${handle} label: ${firstLabel}`));
-  server.db.prepare('DELETE FROM labels WHERE uri = ? AND val = ?').run(userDid, firstLabel);
+  //server.db.prepare('DELETE FROM labels WHERE uri = ? AND val = ?').run(userDid, firstLabel);
 
   await labelUser(userDid, label, handle);
   await removeFromList(firstLabel, userDid);
