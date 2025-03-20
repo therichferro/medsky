@@ -1,0 +1,172 @@
+[
+    {
+        "identifier": "family-medicine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Family Medicine",
+                "description": "This user works in the field of Family Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "primary-care",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Primary Care",
+                "description": "This user works in the field of Primary Care"
+            }
+        ]
+    },
+    {
+        "identifier": "emergency-medicine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Emergency Medicine",
+                "description": "This user works in the field of Emergency Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "pre-hospital-em",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pre-Hospital EM",
+                "description": "This user works in the field of Pre-Hospital Emergency Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "addiction-medicine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Addiction Medicine",
+                "description": "This user works in the field of Addiction Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "direct-primary-care",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Direct Primary Care",
+                "description": "This user works in the field of Direct Primary Care"
+            }
+        ]
+    },
+    {
+        "identifier": "em-fm",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "EM/FM",
+                "description": "This user works in the field of Emergency Medicine/Family Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "fm-onmm",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "FM/ONMM",
+                "description": "This user works in the field of Family Medicine/Osteopathic Neuromusculoskeletal Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "fm-pm",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "FM/PM",
+                "description": "This user works in the field of Family Medicine/Preventive Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "geriatric-medicine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Geriatric Medicine",
+                "description": "This user works in the field of Geriatric Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "hospice-palliative",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Hospice/Palliative",
+                "description": "This user works in the field of Hospice & Palliative Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "immigrant-refugee-health",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Immigrant & Refugee Health",
+                "description": "This user works in the field of Immigrant & Refugee Health"
+            }
+        ]
+    },
+    {
+        "identifier": "rural-medicine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Rural Medicine",
+                "description": "This user works in the field of Rural Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "sports-medicine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Sports Medicine",
+                "description": "This user works in the field of Sports Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "street-medicine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Street Medicine",
+                "description": "This user works in the field of Street Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "urban-medicine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Urban Medicine",
+                "description": "This user works in the field of Urban Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "wilderness-medicine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Wilderness Medicine",
+                "description": "This user works in the field of Wilderness Medicine"
+            }
+        ]
+    }
+]

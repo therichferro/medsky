@@ -1,0 +1,92 @@
+[
+    {
+        "identifier": "anesthesiology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Anesthesiology",
+                "description": "This user works in the field of Anesthesiology"
+            }
+        ]
+    },
+    {
+        "identifier": "accm",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "ACCM",
+                "description": "This user works in the field of Anesthesiology Critical Care Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "acta",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "ACTA",
+                "description": "This user works in the field of Adult Cardiothoracic Anesthesiology"
+            }
+        ]
+    },
+    {
+        "identifier": "em-anesthesiology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "EM/Anesthesiology",
+                "description": "This user works in the field of Emergency Medicine/Anesthesiology"
+            }
+        ]
+    },
+    {
+        "identifier": "obstetric-anesthesiology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Obstetric Anesthesiology",
+                "description": "This user works in the field of Obstetric Anesthesiology"
+            }
+        ]
+    },
+    {
+        "identifier": "pain-medicine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pain Medicine",
+                "description": "This user works in the field of Pain Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-anesthesiology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Anesthesiology",
+                "description": "This user works in the field of Pediatric Anesthesiology"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-cardiac-anesthesiology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Cardiac Anesthesiology",
+                "description": "This user works in the field of Pediatric Cardiac Anesthesiology"
+            }
+        ]
+    },
+    {
+        "identifier": "raapm",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "RAAPM",
+                "description": "This user works in the field of Regional Anesthesiology & Acute Pain Medicine"
+            }
+        ]
+    }
+]

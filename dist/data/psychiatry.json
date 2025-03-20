@@ -1,0 +1,82 @@
+[
+    {
+        "identifier": "psychiatry",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Psychiatry",
+                "description": "This user works in the field of Psychiatry"
+            }
+        ]
+    },
+    {
+        "identifier": "addiction-psychiatry",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Addiction Psychiatry",
+                "description": "This user works in the field of Addiction Psychiatry"
+            }
+        ]
+    },
+    {
+        "identifier": "child-adolescent-psychiatry",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Child & Adolescent Psychiatry",
+                "description": "This user works in the field of Child & Adolescent Psychiatry"
+            }
+        ]
+    },
+    {
+        "identifier": "consultation-liaison-psychiatry",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Consultation-Liaison Psychiatry",
+                "description": "This user works in the field of Consultation-Liaison Psychiatry"
+            }
+        ]
+    },
+    {
+        "identifier": "forensic-psychiatry",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Forensic Psychiatry",
+                "description": "This user works in the field of Forensic Psychiatry"
+            }
+        ]
+    },
+    {
+        "identifier": "geriatric-psychiatry",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Geriatric Psychiatry",
+                "description": "This user works in the field of Geriatric Psychiatry"
+            }
+        ]
+    },
+    {
+        "identifier": "psychiatry-fm",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Psychiatry/FM",
+                "description": "This user works in the field of Psychiatry/Family Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "psychiatry-neurology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Psychiatry/Neurology",
+                "description": "This user works in the field of Psychiatry/Neurology"
+            }
+        ]
+    }
+]

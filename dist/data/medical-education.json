@@ -1,0 +1,82 @@
+[
+    {
+        "identifier": "medical-education",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Medical Education",
+                "description": "This user works in the field of Medical Education"
+            }
+        ]
+    },
+    {
+        "identifier": "medical-illustration",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Medical Illustration",
+                "description": "This user works in the field of Medical Illustration"
+            }
+        ]
+    },
+    {
+        "identifier": "pre-med",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pre-Med",
+                "description": "This user is an Undergraduate Student on a Pre-Medical Track"
+            }
+        ]
+    },
+    {
+        "identifier": "medical-student",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Medical Student",
+                "description": "This user is in Medical School"
+            }
+        ]
+    },
+    {
+        "identifier": "md-phd-student",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "MD/PhD Student",
+                "description": "This user is in a dual doctoral program for physician–scientists"
+            }
+        ]
+    },
+    {
+        "identifier": "pa-student",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "PA Student",
+                "description": "This user is in Physician Assistant School"
+            }
+        ]
+    },
+    {
+        "identifier": "pharmacy-student",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pharmacy Student",
+                "description": "This user is in Pharmacy School"
+            }
+        ]
+    },
+    {
+        "identifier": "nursing-student",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Nursing Student",
+                "description": "This user is in Nursing School"
+            }
+        ]
+    }
+]

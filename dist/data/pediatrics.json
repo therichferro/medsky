@@ -1,0 +1,332 @@
+[
+    {
+        "identifier": "pediatrics",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pediatrics",
+                "description": "This user works in the field of Pediatrics"
+            }
+        ]
+    },
+    {
+        "identifier": "adolescent-medicine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Adolescent Medicine",
+                "description": "This user works in the field of Adolescent Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "child-abuse-pediatrics",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Child Abuse Pediatrics",
+                "description": "This user works in the field of Child Abuse Pediatrics"
+            }
+        ]
+    },
+    {
+        "identifier": "developmental-behavioral-pediatrics",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Developmental-Behavioral Pediatrics",
+                "description": "This user works in the field of Developmental-Behavioral Pediatrics"
+            }
+        ]
+    },
+    {
+        "identifier": "neonatal-perinatal-medicine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Neonatal-Perinatal Medicine",
+                "description": "This user works in the field of Neonatal-Perinatal Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "neonatal-critical-care",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Neonatal Critical Care",
+                "description": "This user works in the field of Neonatal Critical Care Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-cardiology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Cardiology",
+                "description": "This user works in the field of Pediatric Cardiology"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-critical-care",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Critical Care",
+                "description": "This user works in the field of Pediatric Critical Care Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-dermatology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Dermatology",
+                "description": "This user works in the field of Pediatric Dermatology"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-em",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds EM",
+                "description": "This user works in the field of Pediatric Emergency Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-endocrinology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Endocrinology",
+                "description": "This user works in the field of Pediatric Endocrinology"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-ent",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds ENT",
+                "description": "This user works in the field of Pediatric Otolaryngology"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-genetics",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Genetics",
+                "description": "This user works in the field of Pediatrics/Medical Genetics & Genomics"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-gi",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds GI",
+                "description": "This user works in the field of Pediatric Gastroenterology"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-hematology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Hematology",
+                "description": "This user works in the field of Pediatric Hematology"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-heme-onc",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Heme/Onc",
+                "description": "This user works in the field of Pediatric Hematology/Oncology"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-hospital-medicine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Hospital Medicine",
+                "description": "This user works in the field of Pediatric Hospital Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-hospice-palliative",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Hospice/Palliative",
+                "description": "This user works in the field of Pediatric Hospice & Palliative Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-id",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds ID",
+                "description": "This user works in the field of Pediatric Infectious Disease"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-immunology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Immunology",
+                "description": "This user works in the field of Pediatric Immunology"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-nephrology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Nephrology",
+                "description": "This user works in the field of Pediatric Nephrology"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-neurology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Neurology",
+                "description": "This user works in the field of Pediatric Neurology"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-oncology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Oncology",
+                "description": "This user works in the field of Pediatric Oncology"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-ophthalmology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Ophthalmology",
+                "description": "This user works in the field of Peds Ophthalmology"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-orthopedics",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Orthopedics",
+                "description": "This user works in the field of Pediatric Orthopedics"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-pathology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Pathology",
+                "description": "This user works in the field of Pediatric Pathology"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-physiatry",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Physiatry",
+                "description": "This user works in the field of Pediatrics/Physical Medicine & Rehabilitation"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-pulmonology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Pulmonology",
+                "description": "This user works in the field of Pediatric Pulmonology"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-radiology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Radiology",
+                "description": "This user works in the field of Pediatric Radiology"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-rheumatology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Rheumatology",
+                "description": "This user works in the field of Pediatric Rheumatology"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Surgery",
+                "description": "This user works in the field of Pediatric Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-transplant-medicine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Transplant Medicine",
+                "description": "This user works in the field of Pediatric Transplant Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "peds-urology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Peds Urology",
+                "description": "This user works in the field of Pediatric Urology"
+            }
+        ]
+    }
+]

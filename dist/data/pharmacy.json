@@ -1,0 +1,192 @@
+[
+    {
+        "identifier": "pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pharmacy",
+                "description": "This user works in the field of Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "ambulatory-care-pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Ambulatory Care Pharmacy",
+                "description": "This user works in the field of Ambulatory Care Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "cardiology-pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cardiology Pharmacy",
+                "description": "This user works in the field of Cardiology Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "critical-care-pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Critical Care Pharmacy",
+                "description": "This user works in the field of Critical Care Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "hospice-pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Hospice Pharmacy",
+                "description": "This user works in the field of Hospice Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "id-pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "ID Pharmacy",
+                "description": "This user works in the field of Infectious Disease Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "inpatient-pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Inpatient Pharmacy",
+                "description": "This user works in the field of Inpatient Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "nuclear-pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Nuclear Pharmacy",
+                "description": "This user works in the field of Nuclear Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "nutritional-support-pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Nutritional Support Pharmacy",
+                "description": "This user works in the field of Nutritional Support Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "oncology-pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Oncology Pharmacy",
+                "description": "This user works in the field of Oncology Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "poison-control-pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Poison Control Pharmacy",
+                "description": "This user works in the field of Poison Control Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "psychiatric-pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Psychiatric Pharmacy",
+                "description": "This user works in the field of Psychiatric Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "geriatric-pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Geriatric Pharmacy",
+                "description": "This user works in the field of Geriatric Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "outpatient-pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Outpatient Pharmacy",
+                "description": "This user works in the field of Outpatient Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "pain-management-pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pain Management Pharmacy",
+                "description": "This user works in the field of Pain Management Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "pediatric-pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pediatric Pharmacy",
+                "description": "This user works in the field of Pediatric Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "transplantation-pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Transplantation Pharmacy",
+                "description": "This user works in the field of Transplantation Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "personal-pharmacy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Personal Pharmacy",
+                "description": "This user works in the field of Personal Pharmacy"
+            }
+        ]
+    },
+    {
+        "identifier": "pharmacotherapy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pharmacotherapy",
+                "description": "This user works in the field of Pharmacotherapy"
+            }
+        ]
+    }
+]

@@ -1,0 +1,272 @@
+[
+    {
+        "identifier": "general-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "General Surgery",
+                "description": "This user works in the field of General Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "adult-reconstructive-orthopedics",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Adult Reconstructive Orthopedics",
+                "description": "This user works in the field of Adult Reconstructive Orthopedics"
+            }
+        ]
+    },
+    {
+        "identifier": "cardiothoracic-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cardiothoracic Surgery",
+                "description": "This user works in the field of Cardiothoracic Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "congenital-cardiac-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Congenital Cardiac Surgery",
+                "description": "This user works in the field of Congenital Cardiac Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "craniofacial-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Craniofacial Surgery",
+                "description": "This user works in the field of Craniofacial Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "ent",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "ENT",
+                "description": "This user works in the field of Otolaryngology"
+            }
+        ]
+    },
+    {
+        "identifier": "ent-head-neck",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "ENT/Head & Neck",
+                "description": "This user works in the field of Otolaryngology-Head & Neck Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "foot-ankle-orthopedics",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Foot & Ankle Orthopedics",
+                "description": "This user works in the field of Foot & Ankle Orthopedics"
+            }
+        ]
+    },
+    {
+        "identifier": "hand-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Hand Surgery",
+                "description": "This user works in the field of Hand Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "colorectal-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Colorectal Surgery",
+                "description": "This user works in the field of Colon & Rectal Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "msdo",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "MSDO",
+                "description": "This user works in the field of Micrographic Surgery & Dermatologic Oncology"
+            }
+        ]
+    },
+    {
+        "identifier": "neurosurgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Neurosurgery",
+                "description": "This user works in the field of Neurological Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "oculoplastic-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Oculoplastic Surgery",
+                "description": "This user works in the field of Ophthalmic Plastic & Reconstructive Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "orthopedic-spine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Orthopedic Spine",
+                "description": "This user works in the field of Orthopedic Surgery of the Spine"
+            }
+        ]
+    },
+    {
+        "identifier": "orthopedic-sports",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Orthopedic Sports",
+                "description": "This user works in the field of Orthopedic Sports Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "orthopedic-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Orthopedic Surgery",
+                "description": "This user works in the field of Orthopedic Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "orthopedic-trauma",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Orthopedic Trauma",
+                "description": "This user works in the field of Orthopedic Trauma"
+            }
+        ]
+    },
+    {
+        "identifier": "plastic-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Plastic Surgery",
+                "description": "This user works in the field of Plastic Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "reconstructive-pelvic-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Reconstructive Pelvic Surgery",
+                "description": "This user works in the field of Reconstructive Pelvic Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "surgical-critical-care",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Surgical Critical Care",
+                "description": "This user works in the field of Surgical Critical Care"
+            }
+        ]
+    },
+    {
+        "identifier": "surgical-oncology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Surgical Oncology",
+                "description": "This user works in the field of Surgical Oncology"
+            }
+        ]
+    },
+    {
+        "identifier": "thoracic-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Thoracic Surgery",
+                "description": "This user works in the field of Thoracic Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "transgender-medicine-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Transgender Medicine & Surgery",
+                "description": "This user works in the field of Transgender Medicine & Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "trauma-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Trauma Surgery",
+                "description": "This user works in the field of Trauma Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "urology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Urology",
+                "description": "This user works in the field of Urology"
+            }
+        ]
+    },
+    {
+        "identifier": "urogynecology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Urogynecology",
+                "description": "This user works in the field of Urogynecology"
+            }
+        ]
+    },
+    {
+        "identifier": "vascular-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Vascular Surgery",
+                "description": "This user works in the field of Vascular Surgery"
+            }
+        ]
+    }
+]

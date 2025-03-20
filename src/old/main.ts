@@ -1,3 +1,9 @@
+// version of the main.ts file that includes mitmproxy
+
+import 'global-agent/bootstrap';
+
+process.env.GLOBAL_AGENT_HTTP_PROXY = 'http://localhost:8080';
+
 import { AtpAgent, AtUri, ComAtprotoLabelDefs } from '@atproto/api';
 import { LabelerServer } from '@skyware/labeler';
 import { CommitCreateEvent, Jetstream } from '@skyware/jetstream';
@@ -19,6 +25,8 @@ const MAXLABELS = 4;
 const WANTED_COLLECTION = 'app.bsky.feed.like';
 const FIREHOSE_URL = 'wss://jetstream.atproto.tools/subscribe'; //'wss://jetstream.atproto.tools/subscribe'
 const CURSOR_UPDATE_INTERVAL = 60000;
+
+// Since the url is wss:// the port is 443
 
 let cursor = 0;
 let cursorUpdateInterval: NodeJS.Timeout;
@@ -199,8 +207,7 @@ async function removeFromList (listName: string, userDid: string) {
 
   if (listUri?.uri) {
     const {collection, rkey} = new AtUri(listUri?.uri);
-
-    const { success, data } = await agent.com.atproto.repo.deleteRecord({
+    const { success } = await agent.com.atproto.repo.deleteRecord({
       repo: process.env.LABELER_DID!,
       collection,
       rkey

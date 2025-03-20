@@ -1,0 +1,122 @@
+[
+    {
+        "identifier": "ob-gyn",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Ob/Gyn",
+                "description": "This user works in the field of Obstetrics & Gynecology"
+            }
+        ]
+    },
+    {
+        "identifier": "ob-gyn-critical-care",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Ob/Gyn Critical Care",
+                "description": "This user works in the field of Obstetrics & Gynecology Critical Care Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "complex-family-planning",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Complex Family Planning",
+                "description": "This user works in the field of Complex Family Planning"
+            }
+        ]
+    },
+    {
+        "identifier": "genetics-mfm",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Genetics/MFM",
+                "description": "This user works in the field of Medical Genetics & Genomics/Maternal-Fetal Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "gyn-onc",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Gyn/Onc",
+                "description": "This user works in the field of Gynecologic Oncology"
+            }
+        ]
+    },
+    {
+        "identifier": "labor-delivery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Labor & Delivery",
+                "description": "This user works in the field of Labor & Delivery"
+            }
+        ]
+    },
+    {
+        "identifier": "menopausal-geriatric-gynecology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Menopausal & Geriatric Gynecology",
+                "description": "This user works in the field of Menopausal & Geriatric Gynecology"
+            }
+        ]
+    },
+    {
+        "identifier": "mfm",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "MFM",
+                "description": "This user works in the field of Maternal-Fetal Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "migs",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "MIGS",
+                "description": "This user works in the field of Minimally Invasive Gynecologic Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "pediatric-adolescent-gynecology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Pediatric & Adolescent Gynecology",
+                "description": "This user works in the field of Pediatric & Adolescent Gynecology"
+            }
+        ]
+    },
+    {
+        "identifier": "rei",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "REI",
+                "description": "This user works in the field of Reproductive Endocrinology & Infertility"
+            }
+        ]
+    },
+    {
+        "identifier": "rei-genetics",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "REI/Genetics",
+                "description": "This user works in the field of Reproductive Endocrinology & Infertility/Medical Genetics & Genomics"
+            }
+        ]
+    }
+]

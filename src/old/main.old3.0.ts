@@ -17,7 +17,7 @@ console.log("All labels: " + allLabels);
 
 const MAXLABELS = 4;
 const WANTED_COLLECTION = 'app.bsky.feed.like';
-const FIREHOSE_URL = 'wss://jetstream.atproto.tools/subscribe'; //'wss://jetstream.atproto.tools/subscribe'
+const FIREHOSE_URL = 'wss://jetstream.atproto.tools/subscribe';
 const CURSOR_UPDATE_INTERVAL = 60000;
 
 let cursor = 0;
@@ -85,7 +85,6 @@ jetstream.on('open', () => {
   );
   cursorUpdateInterval = setInterval(() => {
     if (jetstream.cursor) {
-      //console.log(`Cursor updated to: ${jetstream.cursor} (${epochUsToDateTime(jetstream.cursor)})`);
       fs.writeFile('cursor.txt', jetstream.cursor.toString(), (err) => {
         if (err) console.log(err);
       });
@@ -141,75 +140,132 @@ jetstream.onCreate(WANTED_COLLECTION, (event: CommitCreateEvent<typeof WANTED_CO
   }
 });
 
+// Updated function with logging
 async function labelUser(userDid: string, label: LabelType, handle: string) {
-  server.createLabel({ uri: userDid, val: label.identifier });
+  try {
+    console.log(`Attempting to label user ${userDid} with label ${label.identifier}`);
+    const response = server.createLabel({ uri: userDid, val: label.identifier });
 
-  await addToList(label.identifier, userDid);
-  await addToList('medsky', userDid);
-  
-  console.log(chalk.green(`[N] Labeling ${handle} with ${label.name}`));
+    // Verify the API response
+    console.log('Label creation response:', response);
+
+    await addToList(label.identifier, userDid);
+    await addToList('medsky', userDid);
+
+    console.log(chalk.green(`[N] Labeling ${handle} with ${label.name}`));
+  } catch (error) {
+    console.error(`Error labeling user ${userDid}:`, error);
+  }
 }
 
+// Updated function with logging
 async function deleteUserLabels(userDid: string, userLabels: Set<string>, handle: string) {
-  server.createLabels({ uri: userDid }, { negate: Array.from(userLabels) });
-  console.log(chalk.red(`[D] Deleting ${handle} labels: ${Array.from(userLabels)}`));
-  
-  for (const label of userLabels) {
-    await removeFromList(label, userDid);
-  }
-  await removeFromList('medsky', userDid);
+  try {
+    console.log(`Attempting to delete labels for user ${userDid}`);
+    console.log(`User labels set before deletion: ${Array.from(userLabels)}`);
 
-  //server.db.prepare('DELETE FROM labels WHERE uri = ?').run(userDid);
+    const response = server.createLabels({ uri: userDid }, { negate: Array.from(userLabels) });
+    // Verify the API response
+    console.log('Label deletion response:', response);
+
+    console.log(chalk.red(`[D] Deleting ${handle} labels: ${Array.from(userLabels)}`));
+
+    for (const label of userLabels) {
+      await removeFromList(label, userDid);
+    }
+    await removeFromList('medsky', userDid);
+
+    server.db.prepare('DELETE FROM labels WHERE uri = ?').run(userDid);
+    console.log(`Labels deleted for user ${userDid}`);
+  } catch (error) {
+    console.error(`Error deleting labels for user ${userDid}:`, error);
+  }
 }
 
+// Updated function with logging
 async function removeAndAddLabel(userDid: string, label: LabelType, firstLabel: string, handle: string) {
-  server.createLabels({ uri: userDid }, { negate: [firstLabel] });
-  console.log(chalk.red(`[D] Deleting ${handle} label: ${firstLabel}`));
-  //server.db.prepare('DELETE FROM labels WHERE uri = ? AND val = ?').run(userDid, firstLabel);
+  try {
+    console.log(`Attempting to remove label ${firstLabel} and add label ${label.identifier} for user ${userDid}`);
+    const response = server.createLabels({ uri: userDid }, { negate: [firstLabel] });
+    // Verify the API response
+    console.log('Label removal and addition response:', response);
 
-  await labelUser(userDid, label, handle);
-  await removeFromList(firstLabel, userDid);
-}
+    console.log(chalk.red(`[D] Deleting ${handle} label: ${firstLabel}`));
+    server.db.prepare('DELETE FROM labels WHERE uri = ? AND val = ?').run(userDid, firstLabel);
 
-async function addToList (listName: string, userDid: string) {
-  const listUri = availableLists.get(listName);
-
-  if(listUri?.uri) {
-    const { data, success} = await agent.com.atproto.repo.createRecord({
-      repo: process.env.LABELER_DID!,
-      collection: 'app.bsky.graph.listitem',
-      record: {
-        $type: "app.bsky.graph.listitem",
-        subject: userDid,
-        list: listUri?.uri,
-        createdAt: new Date().toISOString(),
-      },
-    });
-
-    if (success) {
-      server.db.prepare('INSERT INTO lists (name, uri, userUri) VALUES (?, ?, ?);')
-        .run(listName, data.uri, userDid);
-    }
+    await labelUser(userDid, label, handle);
+    await removeFromList(firstLabel, userDid);
+  } catch (error) {
+    console.error(`Error removing and adding labels for user ${userDid}:`, error);
   }
 }
 
-async function removeFromList (listName: string, userDid: string) {
-  const listUri = server.db.prepare('SELECT uri FROM lists WHERE name = ? AND userUri = ?')
-    .get(listName, userDid) as { uri: string };
+// Updated function with logging
+async function addToList(listName: string, userDid: string) {
+  try {
+    console.log(`Attempting to add user ${userDid} to list ${listName}`);
+    const listUri = availableLists.get(listName);
 
-  if (listUri?.uri) {
-    const {collection, rkey} = new AtUri(listUri?.uri);
+    if(listUri?.uri) {
+      const { data, success } = await agent.com.atproto.repo.createRecord({
+        repo: process.env.LABELER_DID!,
+        collection: 'app.bsky.graph.listitem',
+        record: {
+          $type: "app.bsky.graph.listitem",
+          subject: userDid,
+          list: listUri?.uri,
+          createdAt: new Date().toISOString(),
+        },
+      });
 
-    const { success, data } = await agent.com.atproto.repo.deleteRecord({
-      repo: process.env.LABELER_DID!,
-      collection,
-      rkey
-    });
-    
-    if (success) {
-      server.db.prepare('DELETE FROM lists WHERE name = ? AND userUri = ?')
-        .run(listName, userDid);
+      // Verify the API response
+      console.log('Add to list response:', { data, success });
+
+      if (success) {
+        server.db.prepare('INSERT INTO lists (name, uri, userUri) VALUES (?, ?, ?);')
+          .run(listName, data.uri, userDid);
+        console.log(`User ${userDid} added to list ${listName} with URI ${data.uri}`);
+      } else {
+        console.error(`Failed to add user ${userDid} to list ${listName}`);
+      }
+    } else {
+      console.error(`List URI not found for list ${listName}`);
     }
+  } catch (error) {
+    console.error(`Error adding user ${userDid} to list ${listName}:`, error);
+  }
+}
+
+// Updated function with logging
+async function removeFromList(listName: string, userDid: string) {
+  try {
+    console.log(`Attempting to remove user ${userDid} from list ${listName}`);
+    const listUri = server.db.prepare('SELECT uri FROM lists WHERE name = ? AND userUri = ?')
+      .get(listName, userDid) as { uri: string };
+
+    if (listUri?.uri) {
+      const { collection, rkey } = new AtUri(listUri?.uri);
+      const { success } = await agent.com.atproto.repo.deleteRecord({
+        repo: process.env.LABELER_DID!,
+        collection,
+        rkey
+      });
+
+      // Verify the API response
+      console.log('Remove from list response:', { success });
+
+      if (success) {
+        server.db.prepare('DELETE FROM lists WHERE name = ? AND userUri = ?')
+          .run(listName, userDid);
+        console.log(`User ${userDid} removed from list ${listName} with URI ${listUri.uri}`);
+      } else {
+        console.error(`Failed to remove user ${userDid} from list ${listName}`);
+      }
+    } else {
+      console.error(`List URI not found for list ${listName}`);
+    }
+  } catch (error) {
+    console.error(`Error removing user ${userDid} from list ${listName}:`, error);
   }
 }
 

@@ -1,0 +1,262 @@
+[
+    {
+        "identifier": "neurology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Neurology",
+                "description": "This user works in the field of Neurology"
+            }
+        ]
+    },
+    {
+        "identifier": "ophthalmology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Ophthalmology",
+                "description": "This user works in the field of Ophthalmology"
+            }
+        ]
+    },
+    {
+        "identifier": "optometry",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Optometry",
+                "description": "This user works in the field of Optometry"
+            }
+        ]
+    },
+    {
+        "identifier": "anterior-segment-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Anterior Segment Surgery",
+                "description": "This user works in the field of Anterior Segment Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "brain-injury-medicine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Brain Injury Medicine",
+                "description": "This user works in the field of Brain Injury Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "cataracts-refractive-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cataracts & Refractive Surgery",
+                "description": "This user works in the field of Cataracts & Refractive Surgery"
+            }
+        ]
+    },
+    {
+        "identifier": "clinical-neurophysiology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Clinical Neurophysiology",
+                "description": "This user works in the field of Clinical Neurophysiology"
+            }
+        ]
+    },
+    {
+        "identifier": "cornea-external-disease",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Cornea & External Disease",
+                "description": "This user works in the field of Cornea & External Disease"
+            }
+        ]
+    },
+    {
+        "identifier": "epilepsy",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Epilepsy",
+                "description": "This user works in the field of Epilepsy"
+            }
+        ]
+    },
+    {
+        "identifier": "glaucoma",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Glaucoma",
+                "description": "This user works in the field of Ophthalmology, with a focus on the management of Glaucoma"
+            }
+        ]
+    },
+    {
+        "identifier": "onmm",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "ONMM",
+                "description": "This user works in the field of Osteopathic Neuromusculoskeletal Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "vascular-neurology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Vascular Neurology",
+                "description": "This user works in the field of Vascular Neurology"
+            }
+        ]
+    },
+    {
+        "identifier": "neurocritical-care",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Neurocritical Care",
+                "description": "This user works in the field of Neurocritical Care"
+            }
+        ]
+    },
+    {
+        "identifier": "neurodevelopmental-disabilities",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Neurodevelopmental Disabilities",
+                "description": "This user works in the field of Neurodevelopmental Disabilities"
+            }
+        ]
+    },
+    {
+        "identifier": "neuroendovascular-intervention",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Neuroendovascular Intervention",
+                "description": "This user works in the field of Neuroendovascular Intervention"
+            }
+        ]
+    },
+    {
+        "identifier": "neurology-physiatry",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Neurology/Physiatry",
+                "description": "This user works in the field of Neurology/Physical Medicine & Rehabilitation"
+            }
+        ]
+    },
+    {
+        "identifier": "neuromuscular-medicine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Neuromuscular Medicine",
+                "description": "This user works in the field of Neuromuscular Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "neuro-ophthalmology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Neuro-Ophthalmology",
+                "description": "This user works in the field of Neuro-Ophthalmology"
+            }
+        ]
+    },
+    {
+        "identifier": "neuropathology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Neuropathology",
+                "description": "This user works in the field of Neuropathology"
+            }
+        ]
+    },
+    {
+        "identifier": "neuroradiology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Neuroradiology",
+                "description": "This user works in the field of Neuroradiology"
+            }
+        ]
+    },
+    {
+        "identifier": "neurotology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Neurotology",
+                "description": "This user works in the field of Neurotology"
+            }
+        ]
+    },
+    {
+        "identifier": "ocular-immunology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Ocular Immunology",
+                "description": "This user works in the field of Ocular Immunology"
+            }
+        ]
+    },
+    {
+        "identifier": "ocular-oncology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Ocular Oncology",
+                "description": "This user works in the field of Ocular Oncology"
+            }
+        ]
+    },
+    {
+        "identifier": "retinal-ophthalmology",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Retinal Ophthalmology",
+                "description": "This user works in the field of Retinal Ophthalmology"
+            }
+        ]
+    },
+    {
+        "identifier": "spinal-cord-injury-medicine",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Spinal Cord Injury Medicine",
+                "description": "This user works in the field of Spinal Cord Injury Medicine"
+            }
+        ]
+    },
+    {
+        "identifier": "vitreo-retinal-surgery",
+        "locales": [
+            {
+                "lang": "en",
+                "name": "Vitreo-Retinal Surgery",
+                "description": "This user works in the field of Vitreo-Retinal Surgery"
+            }
+        ]
+    }
+]
