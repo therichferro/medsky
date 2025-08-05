@@ -20,6 +20,7 @@
   },
   "dependencies": {
     "@atproto/api": "^0.13.16",
+    "@bikesky/bsky-community-bot": "^0.4.5",
     "@skyware/bot": "^0.3.7",
     "@skyware/jetstream": "^0.2.0",
     "@skyware/labeler": "^0.1.13",
