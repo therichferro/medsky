@@ -1,0 +1,162 @@
+[
+  {
+    "identifier": "or00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Orthopedic Surgery",
+        "description": "This user works in the field of Orthopedic Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Ortopédica",
+        "description": "Este usuario trabaja en el campo de la cirugía ortopédica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Ortopédica",
+        "description": "Este usuário atua na área de Cirurgia Ortopédica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "or01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Adult Reconstructive Orthopedics",
+        "description": "This user works in the field of Adult Reconstructive Orthopedics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Ortopedia Reconstructiva Para Adultos",
+        "description": "Este usuario trabaja en el campo de la ortopedia reconstructiva para adultos. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Ortopedia Reconstrutiva Para Adultos",
+        "description": "Este usuário atua na área de Ortopedia Reconstrutiva para Adultos. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "or02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Foot & Ankle Surgery",
+        "description": "This user works in the field of Foot & Ankle Orthopedics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía De Pie Y Tobillo",
+        "description": "Este usuario trabaja en el campo de la ortopedia de pie y tobillo. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia De Pé E Tornozelo",
+        "description": "Este usuário atua na área de Ortopedia do Pé e Tornozelo. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "or03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Hand Surgery",
+        "description": "This user works in the field of Hand Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía De La Mano",
+        "description": "Este usuario trabaja en el campo de la cirugía de mano. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Da Mão",
+        "description": "Este usuário atua na área de Cirurgia da Mão. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "or04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Orthopedic Spine",
+        "description": "This user works in the field of Orthopedic Surgery of the Spine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Columna Ortopédica",
+        "description": "Este usuario trabaja en el campo de la cirugía ortopédica de columna. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Coluna Ortopédica",
+        "description": "Este usuário atua na área de Cirurgia Ortopédica da Coluna. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "or05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Orthopedic Sports Medicine",
+        "description": "This user works in the field of Orthopedic Sports Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Deportiva Ortopédica",
+        "description": "Este usuario trabaja en el campo de la Medicina Deportiva Ortopédica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Esportiva Ortopédica",
+        "description": "Este usuário atua na área de Medicina Esportiva Ortopédica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "or06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Orthopedic Trauma",
+        "description": "This user works in the field of Orthopedic Trauma. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Trauma Ortopédico",
+        "description": "Este usuario trabaja en el campo de la traumatología ortopédica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Trauma Ortopédico",
+        "description": "Este usuário atua na área de Trauma Ortopédico. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "or07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Orthopedic Surgery",
+        "description": "This user works in the field of Pediatric Orthopedics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Ortopédica Pediátrica",
+        "description": "Este usuario trabaja en el campo de la ortopedia pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Ortopédica Pediátrica",
+        "description": "Este usuário atua na área de Ortopedia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

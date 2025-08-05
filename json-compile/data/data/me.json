@@ -1,0 +1,202 @@
+[
+  {
+    "identifier": "me00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Medical Education",
+        "description": "This user works in the field of Medical Education. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Educación Médica",
+        "description": "Este usuario trabaja en el campo de la educación médica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Educação Médica",
+        "description": "Este usuário atua na área de Educação Médica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "me01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Dental Student",
+        "description": "This user is in Dental School. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Estudiante De Odontología",
+        "description": "Este usuario estudia Odontología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Estudante De Odontologia",
+        "description": "Este usuário está cursando Odontologia. Esta marcação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "me02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "DEI in Medicine",
+        "description": "This user is dedicated to improving diversity, equity, & inclusion in the field of medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Dei En Medicina",
+        "description": "Este usuario se dedica a mejorar la diversidad, la equidad y la inclusión en el campo de la medicina. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Dei Em Medicina",
+        "description": "Este usuário se dedica a promover a diversidade, a equidade e a inclusão na área da medicina. Esta marca serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "me03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Medical Illustration",
+        "description": "This user works in the field of Medical Illustration. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Ilustración Médica",
+        "description": "Este usuario trabaja en el campo de la ilustración médica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Ilustração Médica",
+        "description": "Este usuário trabalha na área de Ilustração Médica. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "me04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pre-Med",
+        "description": "This user is an Undergraduate Student on a Pre-Medical Track. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Pre-Medicina",
+        "description": "Este usuario es estudiante de pregrado de premedicina. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Pré-Medicina",
+        "description": "Este usuário é um estudante de graduação em um curso pré-médico. Esta identificação serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "me05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Medical Student",
+        "description": "This user is in Medical School. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Estudiante De Medicina",
+        "description": "Este usuario estudia Medicina. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Estudante De Medicina",
+        "description": "Este usuário está cursando Medicina. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "me06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "MD/PhD Student",
+        "description": "This user is in a dual doctoral program for physician–scientists. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Estudiante De Doctorado En Medicina",
+        "description": "Este usuario participa en un programa de doctorado dual para médicos y científicos. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Estudante De Md/Phd",
+        "description": "Este usuário está em um programa de doutorado duplo para médicos e cientistas. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "me07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "PA Student",
+        "description": "This user is in Physician Assistant School. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Estudiante De Pa",
+        "description": "Este usuario está en la Escuela de Asistente Médico. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Estudante De Pa",
+        "description": "Este usuário está na Escola de Assistente Médico. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "me08",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pharmacy Student",
+        "description": "This user is in Pharmacy School. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Estudiante De Farmacia",
+        "description": "Este usuario estudia Farmacia. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Estudante De Farmácia",
+        "description": "Este usuário está na Faculdade de Farmácia. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "me09",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Nursing Student",
+        "description": "This user is in Nursing School. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Estudiante De Enfermería",
+        "description": "Este usuario estudia enfermería. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Estudante De Enfermagem",
+        "description": "Este usuário está na Escola de Enfermagem. Esta marcação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

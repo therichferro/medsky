@@ -1,0 +1,142 @@
+[
+  {
+    "identifier": "rt00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "CT Technology",
+        "description": "This user works in the field of CT Technology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Tecnología Tomografía Computarizada",
+        "description": "Este usuario trabaja en el campo de la tecnología CT. Esta etiqueta es solo para fines de red y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Tecnologia De Tomografia Computadorizada",
+        "description": "Este usuário trabalha na área de Tecnologia de TC. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "rt01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Fluoroscopy",
+        "description": "This user works in the field of Fluoroscopy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Fluoroscopia",
+        "description": "Este usuario trabaja en el campo de la fluoroscopia. Esta etiqueta es solo para fines de red y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Fluoroscopia",
+        "description": "Este usuário trabalha na área de Fluoroscopia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "rt02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Mammography",
+        "description": "This user works in the field of Mammography. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Mamografía",
+        "description": "Este usuario trabaja en el campo de la mamografía. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Mamografia",
+        "description": "Este usuário trabalha na área de mamografia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "rt03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "MRI Technology",
+        "description": "This user works in the field of MRI Technology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Tecnología De Resonancia Magnética",
+        "description": "Este usuario trabaja en el campo de la tecnología de resonancia magnética. Esta etiqueta es solo para fines de red y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Tecnologia De Ressonância Magnética",
+        "description": "Este usuário trabalha na área de Tecnologia de Ressonância Magnética. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "rt04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "POCUS",
+        "description": "This user works in the field of Point of Care Ultrasound. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Ultrasonido En El Punto De Atención",
+        "description": "Este usuario trabaja en el campo de la ecografía en el punto de atención. Esta etiqueta es solo para fines de red y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Ultrassom No Local De Atendimento",
+        "description": "Este usuário trabalha na área de Ultrassom no Local de Atendimento. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "rt05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Radiography",
+        "description": "This user works in the field of Radiography. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Radiografía",
+        "description": "Este usuario trabaja en el campo de la radiografía. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Radiografia",
+        "description": "Este usuário trabalha na área de Radiografia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "rt06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Ultrasound",
+        "description": "This user works in the field of Ultrasound. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Ultrasonido",
+        "description": "Este usuario trabaja en el campo de la ecografía. Esta etiqueta es solo para fines de red y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Ultrassom",
+        "description": "Este usuário trabalha na área de ultrassom. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

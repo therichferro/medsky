@@ -1,0 +1,342 @@
+[
+  {
+    "identifier": "ra00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Radiology",
+        "description": "This user works in the field of Radiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Radiología",
+        "description": "Este usuario trabaja en el campo de la radiología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Radiologia",
+        "description": "Este usuário trabalha na área de Radiologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ra01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Abdominal Radiology",
+        "description": "This user works in the field of Abdominal Radiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Radiología Abdominal",
+        "description": "Este usuario trabaja en el campo de la radiología abdominal. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Radiologia Abdominal",
+        "description": "Este usuário trabalha na área de Radiologia Abdominal. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ra02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Diagnostic Radiology",
+        "description": "This user works in the field of Radiology-Diagnostic. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Radiología Diagnóstica",
+        "description": "Este usuario trabaja en el campo de Radiología Diagnóstica. Esta etiqueta es solo para fines de red y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Radiologia Diagnóstica",
+        "description": "Este usuário trabalha na área de Radiologia-Diagnóstico. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ra03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Diagnostic Ultrasound",
+        "description": "This user works in the field of Diagnostic Ultrasound. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Ultrasonido Diagnóstico",
+        "description": "Este usuario trabaja en el campo de la ecografía diagnóstica. Esta etiqueta solo se utiliza para fines de red y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Ultrassom Diagnóstico",
+        "description": "Este usuário trabalha na área de Ultrassom Diagnóstico. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ra04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Interventional Radiology",
+        "description": "This user works in the field of Interventional Radiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Radiología Intervencionista",
+        "description": "Este usuario trabaja en el campo de la radiología intervencionista. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Radiologia Intervencionista",
+        "description": "Este usuário atua na área de Radiologia Intervencionista. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ra05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "In Vivo & In Vitro Nuclear Medicine",
+        "description": "This user works in the field of In Vivo & In Vitro Nuclear Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Nuclear In Vivo E In Vitro",
+        "description": "Este usuario trabaja en el campo de la medicina nuclear in vivo e in vitro. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Nuclear In Vivo E In Vitro",
+        "description": "Este usuário atua na área de Medicina Nuclear In Vivo e In Vitro. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ra06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "MSK Radiology",
+        "description": "This user works in the field of Musculoskeletal Radiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Radiología Musculoesquelético",
+        "description": "Este usuario trabaja en el campo de la radiología musculoesquelética. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Radiologia Musculoesquelético",
+        "description": "Este usuário atua na área de Radiologia Musculoesquelética. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ra07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Neuroradiology",
+        "description": "This user works in the field of Neuroradiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Neurorradiología",
+        "description": "Este usuario trabaja en el campo de la neurorradiología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Neurorradiologia",
+        "description": "Este usuário atua na área de Neurorradiologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ra08",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Nuclear Cardiology",
+        "description": "This user works in the field of Nuclear Cardiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cardiología Nuclear",
+        "description": "Este usuario trabaja en el campo de la cardiología nuclear. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cardiologia Nuclear",
+        "description": "Este usuário atua na área de Cardiologia Nuclear. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ra09",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Nuclear Imaging & Therapy",
+        "description": "This user works in the field of Nuclear Imaging & Therapy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Imágenes Y Terapia Nuclear",
+        "description": "Este usuario trabaja en el campo de la Imagenología y Terapia Nuclear. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Imagem E Terapia Nuclear",
+        "description": "Este usuário trabalha na área de Imagem e Terapia Nuclear. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ra10",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Nuclear Medicine",
+        "description": "This user works in the field of Nuclear Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Nuclear",
+        "description": "Este usuario trabaja en el campo de la medicina nuclear. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Nuclear",
+        "description": "Este usuário atua na área de Medicina Nuclear. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ra11",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Nuclear Radiology",
+        "description": "This user works in the field of Nuclear Radiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Radiología Nuclear",
+        "description": "Este usuario trabaja en el campo de la radiología nuclear. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Radiologia Nuclear",
+        "description": "Este usuário trabalha na área de Radiologia Nuclear. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ra12",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Radiology",
+        "description": "This user works in the field of Pediatric Radiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Radiología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la radiología pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Radiologia Pediátrica",
+        "description": "Este usuário atua na área de Radiologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ra13",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Podiatric Radiology",
+        "description": "This user works in the field of Podiatric Radiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Radiología Podiátrica",
+        "description": "Este usuario trabaja en el campo de la radiología podológica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Radiologia Podológica",
+        "description": "Este usuário atua na área de Radiologia Podológica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ra14",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Radiation Oncology",
+        "description": "This user works in the field of Radiation Oncology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Oncología Radioterápica",
+        "description": "Este usuario trabaja en el campo de la oncología radioterápica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Radio-Oncologia",
+        "description": "Este usuário trabalha na área de Radio-Oncologia. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ra15",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Radiological Physics",
+        "description": "This user works in the field of Radiological Physics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Física Radiológica",
+        "description": "Este usuario trabaja en el campo de la Física Radiológica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Física Radiológica",
+        "description": "Este usuário trabalha na área de Física Radiológica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ra16",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Therapeutic Radiology",
+        "description": "This user works in the field of Therapeutic Radiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Radiología Terapéutica",
+        "description": "Este usuario trabaja en el campo de la radiología terapéutica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Radiologia Terapêutica",
+        "description": "Este usuário atua na área de Radiologia Terapêutica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

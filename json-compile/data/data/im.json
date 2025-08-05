@@ -1,0 +1,762 @@
+[
+  {
+    "identifier": "im00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Internal Medicine",
+        "description": "This user works in the field of Internal Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Interna",
+        "description": "Este usuario trabaja en el campo de la Medicina Interna. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Interna",
+        "description": "Este usuário atua na área de Clínica Médica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Adult Congenital Heart Disease",
+        "description": "This user works in the field of Adult Congenital Heart Disease. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Enfermedad Cardíaca Congénita Del Adulto",
+        "description": "Este usuario trabaja en el campo de las cardiopatías congénitas en adultos. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Doença Cardíaca Congênita Do Adulto",
+        "description": "Este usuário atua na área de Cardiopatia Congênita em Adultos. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Advanced Heart Failure",
+        "description": "This user works in the field of Cardiology, with a focus on the management of Heart Failure. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Insuficiencia Cardíaca Avanzada",
+        "description": "Este usuario trabaja en el campo de la cardiología, con especialización en el manejo de la insuficiencia cardíaca. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Insuficiência Cardíaca Avançada",
+        "description": "Este usuário atua na área de Cardiologia, com foco no tratamento da Insuficiência Cardíaca. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cardiac Electrophysiology",
+        "description": "This user works in the field of Clinical Cardiac Electrophysiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Electrofisiología Cardíaca",
+        "description": "Este usuario trabaja en el campo de la electrofisiología cardíaca clínica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Eletrofisiologia Cardíaca",
+        "description": "Este usuário atua na área de Eletrofisiologia Cardíaca Clínica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cardiology",
+        "description": "This user works in the field of Cardiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cardiología",
+        "description": "Este usuario trabaja en el campo de la cardiología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cardiologia",
+        "description": "Este usuário atua na área de Cardiologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cardiovascular Disease",
+        "description": "This user works in the field of Cardiovascular Disease. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Enfermedad Cardiovascular",
+        "description": "Este usuario trabaja en el campo de las enfermedades cardiovasculares. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Doenças Cardiovasculares",
+        "description": "Este usuário atua na área de Doenças Cardiovasculares. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Critical Care Medicine",
+        "description": "This user works in the field of Critical Care Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina De Cuidados Críticos",
+        "description": "Este usuario trabaja en el campo de la medicina de cuidados intensivos. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina De Cuidados Intensivos",
+        "description": "Este usuário atua na área de Medicina Intensiva. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Endocrinology",
+        "description": "This user works in the field of Endocrinology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Endocrinología",
+        "description": "Este usuario trabaja en el campo de la endocrinología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Endocrinologia",
+        "description": "Este usuário atua na área de Endocrinologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im08",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Diabetes & Metabolism",
+        "description": "This user works in the field of Diabetes & Metabolism. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Diabetes Y Metabolismo",
+        "description": "Este usuario trabaja en el campo de la diabetes y el metabolismo. Esta etiqueta solo tiene fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Diabetes E Metabolismo",
+        "description": "Este usuário trabalha na área de Diabetes e Metabolismo. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im09",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Gastroenterology",
+        "description": "This user works in the field of Gastroenterology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Gastroenterología",
+        "description": "Este usuario trabaja en el campo de la Gastroenterología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Gastroenterologia",
+        "description": "Este usuário atua na área de Gastroenterologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im10",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Geriatric Medicine",
+        "description": "This user works in the field of Geriatric Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Geriátrica",
+        "description": "Este usuario trabaja en el campo de la medicina geriátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Geriátrica",
+        "description": "Este usuário atua na área de Medicina Geriátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im11",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Hematology",
+        "description": "This user works in the field of Hematology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Hematología",
+        "description": "Este usuario trabaja en el campo de la hematología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Hematologia",
+        "description": "Este usuário trabalha na área de Hematologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im12",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Oncology",
+        "description": "This user works in the field of Oncology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Oncología",
+        "description": "Este usuario trabaja en el campo de la oncología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Oncologia",
+        "description": "Este usuário atua na área de Oncologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im13",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pulmonology",
+        "description": "This user works in the field of Pulmonology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Neumología",
+        "description": "Este usuario trabaja en el campo de la neumología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Pneumologia",
+        "description": "Este usuário atua na área de Pneumologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im14",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Hematology & Oncology",
+        "description": "This user works in the field of Hematology & Medical Oncology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Hematología Y Oncología",
+        "description": "Este usuario trabaja en el campo de la hematología y la oncología médica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Hematologia E Oncologia",
+        "description": "Este usuário atua na área de Hematologia e Oncologia Médica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im15",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Hepatology",
+        "description": "This user works in the field of Hepatology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Hepatología",
+        "description": "Este usuario trabaja en el campo de la hepatología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Hepatologia",
+        "description": "Este usuário atua na área de Hepatologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im16",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "HIV Medicine",
+        "description": "This user works in the field of HIV Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Del HIV",
+        "description": "Este usuario trabaja en el campo de la medicina del VIH. Esta etiqueta solo tiene fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Do HIV",
+        "description": "Este usuário trabalha na área de Medicina do HIV. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im17",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Hospice & Palliative Medicine",
+        "description": "This user works in the field of Hospice & Palliative Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Hospicio Y Medicina Paliativa",
+        "description": "Este usuario trabaja en el campo de Hospicio y Medicina Paliativa. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Paliativa E De Cuidados Paliativos",
+        "description": "Este usuário atua na área de Cuidados Paliativos e Hospice. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im18",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Hospital Medicine",
+        "description": "This user works in the field of Hospital Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Hospitalaria",
+        "description": "Este usuario trabaja en el campo de la medicina hospitalaria. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Hospitalar",
+        "description": "Este usuário atua na área de Medicina Hospitalar. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im19",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Hypertension",
+        "description": "This user works in the field of Cardiology with a focus on the management of Hypertension. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Hipertensión",
+        "description": "Este usuario trabaja en el campo de la cardiología, con especialización en el manejo de la hipertensión. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Hipertensão",
+        "description": "Este usuário atua na área de Cardiologia, com foco no tratamento da Hipertensão. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im20",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Infectious Disease",
+        "description": "This user works in the field of Infectious Disease. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Enfermedad Infecciosa",
+        "description": "Este usuario trabaja en el campo de las enfermedades infecciosas. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Doenças Infecciosas",
+        "description": "Este usuário trabalha na área de Doenças Infecciosas. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im21",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Interventional Cardiology",
+        "description": "This user works in the field of Interventional Cardiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cardiología Intervencionista",
+        "description": "Este usuario trabaja en el campo de la cardiología intervencionista. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cardiologia Intervencionista",
+        "description": "Este usuário atua na área de Cardiologia Intervencionista. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im22",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Interventional Pulmonology",
+        "description": "This user works in the field of Interventional Pulmonology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Neumología Intervencionista",
+        "description": "Este usuario trabaja en el campo de la Neumología Intervencionista. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Pneumologia Intervencionista",
+        "description": "Este usuário atua na área de Pneumologia Intervencionista. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im23",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "MSK Oncology",
+        "description": "This user works in the field of Musculoskeletal Oncology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Oncología Musculoesquelético",
+        "description": "Este usuario trabaja en el campo de la oncología musculoesquelética. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Oncologia Musculoesquelético",
+        "description": "Este usuário atua na área de Oncologia Musculoesquelética. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im24",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Internal Medicine & Pediatrics",
+        "description": "This user works in the combined field of Internal Medicine & Pediatrics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Interna Y Pediatría",
+        "description": "Este usuario trabaja en el campo combinado de Medicina Interna y Pediatría. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Interna E Pediatria",
+        "description": "Este usuário atua na área combinada de Clínica Médica e Pediatria. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im25",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Nephrology",
+        "description": "This user works in the field of Nephrology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Nefrología",
+        "description": "Este usuario trabaja en el campo de la nefrología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Nefrologia",
+        "description": "Este usuário trabalha na área de Nefrologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im26",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Phlebology",
+        "description": "This user works in the field of Phlebology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Flebología",
+        "description": "Este usuario trabaja en el campo de la flebología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Flebologia",
+        "description": "Este usuário trabalha na área de Flebologia. Esta identificação serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im27",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Rheumatology",
+        "description": "This user works in the field of Rheumatology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Reumatología",
+        "description": "Este usuario trabaja en el campo de la reumatología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Reumatologia",
+        "description": "Este usuário atua na área de Reumatologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im28",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Sexual & Reproductive Health",
+        "description": "This user works in the field of Sexual & Reproductive Health. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Salud Sexual Y Reproductiva",
+        "description": "Este usuario trabaja en el campo de la salud sexual y reproductiva. Esta etiqueta solo tiene fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Saúde Sexual E Reprodutiva",
+        "description": "Este usuário trabalha na área de Saúde Sexual e Reprodutiva. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im29",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Sickle Cell Disease",
+        "description": "This user works in the field of Hematology with a focus on the management of Sickle Cell Disease. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Anemia Drepanocítica",
+        "description": "Este usuario trabaja en el campo de la hematología, con especialización en el tratamiento de la anemia de células falciformes. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Anemia Falciforme",
+        "description": "Este usuário atua na área de Hematologia, com foco no tratamento da Doença Falciforme. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im30",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Sleep Medicine",
+        "description": "This user works in the field of Sleep Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Del Sueño",
+        "description": "Este usuario trabaja en el campo de la medicina del sueño. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Do Sono",
+        "description": "Este usuário atua na área de Medicina do Sono. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im31",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Space Medicine",
+        "description": "This user works in the field of Space Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Espacial",
+        "description": "Este usuario trabaja en el campo de la medicina espacial. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Espacial",
+        "description": "Este usuário trabalha na área de Medicina Espacial. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im32",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Sports Medicine",
+        "description": "This user works in the field of Sports Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Deportiva",
+        "description": "Este usuario trabaja en el campo de la medicina deportiva. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Esportiva",
+        "description": "Este usuário atua na área de Medicina Esportiva. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im33",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Transfusion Medicine",
+        "description": "This user works in the field of Blood Banking/Transfusion Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Transfusional",
+        "description": "Este usuario trabaja en el campo de la banca de sangre y la medicina transfusional. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Transfusional",
+        "description": "Este usuário trabalha na área de Banco de Sangue/Medicina Transfusional. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im34",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Transgender Medicine",
+        "description": "This user works in the field of Transgender Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Transgénero",
+        "description": "Este usuario trabaja en el campo de la medicina transgénero. Esta etiqueta solo tiene fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Transgênero",
+        "description": "Este usuário atua na área de Medicina Transgênero. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im35",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Transplant Cardiology",
+        "description": "This user works in the field of Transplant Cardiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cardiología De Trasplantes",
+        "description": "Este usuario trabaja en el campo de la cardiología de trasplantes. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cardiologia De Transplante",
+        "description": "Este usuário atua na área de Cardiologia de Transplantes. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im36",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Transplant Hepatology",
+        "description": "This user works in the field of Transplant Hepatology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Hepatología De Trasplantes",
+        "description": "Este usuario trabaja en el campo de la hepatología de trasplantes. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Hepatologia De Transplante",
+        "description": "Este usuário atua na área de Hepatologia de Transplantes. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "im37",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Transplant Medicine",
+        "description": "This user works in the field of Transplant Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina De Trasplantes",
+        "description": "Este usuario trabaja en el campo de la medicina de trasplantes. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina De Transplante",
+        "description": "Este usuário atua na área de Medicina de Transplantes. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

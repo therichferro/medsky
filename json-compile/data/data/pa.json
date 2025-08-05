@@ -1,0 +1,402 @@
+[
+  {
+    "identifier": "pa00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pathology",
+        "description": "This user works in the field of Pathology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Patología",
+        "description": "Este usuario trabaja en el campo de la patología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Patologia",
+        "description": "Este usuário trabalha na área de Patologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Anatomic Pathology",
+        "description": "This user works in the field of Anatomic Pathology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Patología Anatómica",
+        "description": "Este usuario trabaja en el campo de la Anatomía Patológica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Patologia Anatômica",
+        "description": "Este usuário atua na área de Patologia Anatômica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Blood Banking",
+        "description": "This user works in the field of Blood Banking. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Bancos De Sangre",
+        "description": "Este usuario trabaja en el sector de bancos de sangre. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Banco De Sangue",
+        "description": "Este usuário trabalha na área de Bancos de Sangue. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Chemical Pathology",
+        "description": "This user works in the field of Chemical Pathology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Patología Química",
+        "description": "Este usuario trabaja en el campo de la patología química. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Patologia Química",
+        "description": "Este usuário trabalha na área de Patologia Química. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Clinical Informatics",
+        "description": "This user works in the field of Clinical Informatics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Informática Clínica",
+        "description": "Este usuario trabaja en el campo de la informática clínica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Informática Clínica",
+        "description": "Este usuário trabalha na área de Informática Clínica. Esta identificação serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Clinical Pathology",
+        "description": "This user works in the field of Clinical Pathology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Patología Clínica",
+        "description": "Este usuario trabaja en el campo de la patología clínica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Patologia Clínica",
+        "description": "Este usuário atua na área de Patologia Clínica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Clinical Research",
+        "description": "This user works in the field of Clinical Research. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Investigación Clínica",
+        "description": "Este usuario trabaja en el campo de la investigación clínica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Pesquisa Clínica",
+        "description": "Este usuário atua na área de Pesquisa Clínica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Clinical Trials",
+        "description": "This user works in the field of Clinical Trials. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Ensayos Clínicos",
+        "description": "Este usuario trabaja en el campo de los ensayos clínicos. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Ensaios Clínicos",
+        "description": "Este usuário trabalha na área de Ensaios Clínicos. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa08",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cytopathology",
+        "description": "This user works in the field of Cytopathology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Citopatología",
+        "description": "Este usuario trabaja en el campo de la citopatología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Citopatologia",
+        "description": "Este usuário trabalha na área de Citopatologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa09",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Dermatopathology",
+        "description": "This user works in the field of Dermatopathology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Dermatopatología",
+        "description": "Este usuario trabaja en el campo de la Dermatopatología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Dermatopatologia",
+        "description": "Este usuário atua na área de Dermatopatologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa10",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Forensic Pathology",
+        "description": "This user works in the field of Forensic Pathology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Patología Forense",
+        "description": "Este usuario trabaja en el campo de la patología forense. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Patologia Forense",
+        "description": "Este usuário trabalha na área de Patologia Forense. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa11",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Hematopathology",
+        "description": "This user works in the field of Hematopathology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Hematopatología",
+        "description": "Este usuario trabaja en el campo de la hematopatología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Hematopatologia",
+        "description": "Este usuário atua na área de Hematopatologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa12",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Immunopathology",
+        "description": "This user works in the field of Immunopathology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Inmunopatología",
+        "description": "Este usuario trabaja en el campo de la inmunopatología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Imunopatologia",
+        "description": "Este usuário atua na área de Imunopatologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa13",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Laboratory Medicine",
+        "description": "This user works in the field of Laboratory Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina De Laboratorio",
+        "description": "Este usuario trabaja en el campo de la medicina de laboratorio. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Laboratorial",
+        "description": "Este usuário atua na área de Medicina Laboratorial. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa14",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Medical Microbiology",
+        "description": "This user works in the field of Medical Microbiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Microbiología Médica",
+        "description": "Este usuario trabaja en el campo de la microbiología médica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Microbiologia Médica",
+        "description": "Este usuário trabalha na área de Microbiologia Médica. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa15",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Molecular Genetic Pathology",
+        "description": "This user works in the field of Molecular Genetic Pathology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Patología Genética Molecular",
+        "description": "Este usuario trabaja en el campo de la patología genética molecular. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Patologia Genética Molecular",
+        "description": "Este usuário atua na área de Patologia Genética Molecular. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa16",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Neuropathology",
+        "description": "This user works in the field of Neuropathology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Neuropatología",
+        "description": "Este usuario trabaja en el campo de la neuropatología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Neuropatologia",
+        "description": "Este usuário atua na área de Neuropatologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa17",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Ophthalmic Pathology",
+        "description": "This user works in the field of Ophthalmic Pathology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Patología Oftálmica",
+        "description": "Este usuario trabaja en el campo de la patología oftalmológica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Patologia Oftálmica",
+        "description": "Este usuário atua na área de Patologia Oftálmica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa18",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Pathology",
+        "description": "This user works in the field of Pediatric Pathology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Patología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la patología pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Patologia Pediátrica",
+        "description": "Este usuário atua na área de Patologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pa19",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Research & Development",
+        "description": "This user works in the field of Clinical Research & Development. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Investigación Y Desarrollo",
+        "description": "Este usuario trabaja en el campo de la Investigación y el Desarrollo Clínico. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Pesquisa E Desenvolvimento",
+        "description": "Este usuário trabalha na área de Pesquisa e Desenvolvimento Clínico. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

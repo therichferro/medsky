@@ -1,0 +1,402 @@
+[
+  {
+    "identifier": "su00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "General Surgery",
+        "description": "This user works in the field of General Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía General",
+        "description": "Este usuario trabaja en el campo de la Cirugía General. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Geral",
+        "description": "Este usuário atua na área de Cirurgia Geral. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cardiothoracic Surgery",
+        "description": "This user works in the field of Cardiothoracic Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Cardiotorácica",
+        "description": "Este usuario trabaja en el campo de la cirugía cardiotorácica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Cardiotorácica",
+        "description": "Este usuário atua na área de Cirurgia Cardiotorácica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Congenital Cardiac Surgery",
+        "description": "This user works in the field of Congenital Cardiac Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Cardíaca Congénita",
+        "description": "Este usuario trabaja en el campo de la cirugía cardíaca congénita. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Cardíaca Congênita",
+        "description": "Este usuário atua na área de Cirurgia Cardíaca Congênita. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Colon & Rectal Surgery",
+        "description": "This user works in the field of Colon & Rectal Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía De Colon Y Recto",
+        "description": "Este usuario trabaja en el campo de la cirugía de colon y recto. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia De Cólon E Reto",
+        "description": "Este usuário atua na área de Cirurgia de Cólon e Reto. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Craniofacial Surgery",
+        "description": "This user works in the field of Craniofacial Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Craneofacial",
+        "description": "Este usuario trabaja en el campo de la cirugía craneofacial. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Craniofacial",
+        "description": "Este usuário atua na área de Cirurgia Craniofacial. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Hepatobiliary Surgery",
+        "description": "This user works in the field of Hepatobiliary Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Hepatobiliar",
+        "description": "Este usuario trabaja en el campo de la cirugía hepatobiliar. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Hepatobiliar",
+        "description": "Este usuário atua na área de Cirurgia Hepatobiliar. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Micrographic Surgery",
+        "description": "This user works in the field of Micrographic Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Micrográfica",
+        "description": "Este usuario trabaja en el campo de la cirugía micrográfica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Micrográfica",
+        "description": "Este usuário atua na área de Cirurgia Micrográfica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Neurosurgery",
+        "description": "This user works in the field of Neurological Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Neurocirugía",
+        "description": "Este usuario trabaja en el campo de la neurocirugía. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Neurocirurgia",
+        "description": "Este usuário atua na área de Cirurgia Neurológica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su08",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Surgery",
+        "description": "This user works in the field of Pediatric Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Pediátrica",
+        "description": "Este usuario trabaja en el campo de la cirugía pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Pediátrica",
+        "description": "Este usuário atua na área de Cirurgia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su09",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Plastic and Reconstructive Surgery",
+        "description": "This user works in the field of Plastic Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Plástica Y Reconstructiva",
+        "description": "Este usuario trabaja en el campo de la cirugía plástica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Plástica E Reconstrutiva",
+        "description": "Este usuário atua na área de Cirurgia Plástica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su10",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Reconstructive Pelvic Surgery",
+        "description": "This user works in the field of Reconstructive Pelvic Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Reconstructiva Pélvica",
+        "description": "Este usuario trabaja en el campo de la Cirugía Pélvica Reconstructiva. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Pélvica Reconstrutiva",
+        "description": "Este usuário atua na área de Cirurgia Pélvica Reconstrutiva. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su11",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Surgical Critical Care",
+        "description": "This user works in the field of Surgical Critical Care. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cuidados Críticos Quirúrgicos",
+        "description": "Este usuario trabaja en el campo de Cuidados Críticos Quirúrgicos. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cuidados Críticos Cirúrgicos",
+        "description": "Este usuário atua na área de Terapia Intensiva Cirúrgica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su12",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Surgical Oncology",
+        "description": "This user works in the field of Surgical Oncology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Oncología Quirúrgica",
+        "description": "Este usuario trabaja en el campo de la oncología quirúrgica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Oncologia Cirúrgica",
+        "description": "Este usuário atua na área de Oncologia Cirúrgica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su13",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Thoracic Surgery",
+        "description": "This user works in the field of Thoracic Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Torácica",
+        "description": "Este usuario trabaja en el campo de la cirugía torácica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Torácica",
+        "description": "Este usuário atua na área de Cirurgia Torácica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su14",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Transgender Medicine & Surgery",
+        "description": "This user works in the field of Transgender Medicine & Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Y Cirugía Transgénero",
+        "description": "Este usuario trabaja en el campo de la Medicina y Cirugía Transgénero. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina E Cirurgia Transgênero",
+        "description": "Este usuário atua na área de Medicina e Cirurgia Transgênero. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su15",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Transplant Surgery",
+        "description": "This user works in the field of Transplant Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía De Trasplante",
+        "description": "Este usuario trabaja en el campo de la cirugía de trasplantes. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia De Transplante",
+        "description": "Este usuário atua na área de Cirurgia de Transplante. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su16",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Trauma Surgery",
+        "description": "This user works in the field of Trauma Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía De Trauma",
+        "description": "Este usuario trabaja en el campo de la cirugía de traumatología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia De Trauma",
+        "description": "Este usuário atua na área de Cirurgia de Trauma. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su17",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Vascular Surgery",
+        "description": "This user works in the field of Vascular Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Vascular",
+        "description": "Este usuario trabaja en el campo de la cirugía vascular. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Vascular",
+        "description": "Este usuário atua na área de Cirurgia Vascular. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su18",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Urology",
+        "description": "This user works in the field of Urology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Urología",
+        "description": "Este usuario trabaja en el campo de la urología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Urologia",
+        "description": "Este usuário atua na área de Urologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "su19",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Urology",
+        "description": "This user works in the field of Pediatric Urology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Urología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la urología pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Urologia Pediátrica",
+        "description": "Este usuário atua na área de Urologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

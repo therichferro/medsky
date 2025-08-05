@@ -1,0 +1,182 @@
+[
+  {
+    "identifier": "mg00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Genetics",
+        "description": "This user works in the field of Genetics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Genética",
+        "description": "Este usuario trabaja en el campo de la genética. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Genética",
+        "description": "Este usuário trabalha na área de Genética. Esta identificação serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "mg01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Medical Genetics",
+        "description": "This user works in the field of Medical Genetics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Genética Médica",
+        "description": "Este usuario trabaja en el campo de la genética médica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Genética Médica",
+        "description": "Este usuário trabalha na área de Genética Médica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "mg02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Clinical Biochemical Genetics",
+        "description": "This user works in the field of Clinical Biochemical Genetics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Genética Bioquímica Clínica",
+        "description": "Este usuario trabaja en el campo de la Genética Bioquímica Clínica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Genética Bioquímica Clínica",
+        "description": "Este usuário atua na área de Genética Bioquímica Clínica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "mg03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Clinical Cytogenetics",
+        "description": "This user works in the field of Clinical Cytogenetics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Citogenética Clínica",
+        "description": "Este usuario trabaja en el campo de la citogenética clínica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Citogenética Clínica",
+        "description": "Este usuário atua na área de Citogenética Clínica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "mg04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Clinical Genetics",
+        "description": "This user works in the field of Clinical Genetics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Genética Clínica",
+        "description": "Este usuario trabaja en el campo de la Genética Clínica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Genética Clínica",
+        "description": "Este usuário atua na área de Genética Clínica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "mg05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Clinical Molecular Genetics",
+        "description": "This user works in the field of Clinical Molecular Genetics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Genética Molecular Clínica",
+        "description": "Este usuario trabaja en el campo de la Genética Molecular Clínica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Genética Molecular Clínica",
+        "description": "Este usuário atua na área de Genética Molecular Clínica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "mg06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Medical Biochemical Genetics",
+        "description": "This user works in the field of Medical Biochemical Genetics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Genética Bioquímica Médica",
+        "description": "Este usuario trabaja en el campo de la Genética Bioquímica Médica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Genética Bioquímica Médica",
+        "description": "Este usuário atua na área de Genética Bioquímica Médica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "mg07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Molecular Genetic Pathology",
+        "description": "This user works in the field of Molecular Genetic Pathology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Patología Genética Molecular",
+        "description": "Este usuario trabaja en el campo de la patología genética molecular. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Patologia Genética Molecular",
+        "description": "Este usuário atua na área de Patologia Genética Molecular. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "mg08",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Genetics",
+        "description": "This user works in the field of Pediatrics/Medical Genetics & Genomics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Genética Pediátrica",
+        "description": "Este usuario trabaja en el campo de la Pediatría/Genética y Genómica Médica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Genética Pediátrica",
+        "description": "Este usuário atua na área de Pediatria/Genética Médica e Genômica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

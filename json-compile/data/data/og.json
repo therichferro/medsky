@@ -1,0 +1,262 @@
+[
+  {
+    "identifier": "og00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Obstetrics & Gynecology",
+        "description": "This user works in the field of Obstetrics & Gynecology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Obstetricia Y Ginecología",
+        "description": "Este usuario trabaja en el campo de la obstetricia y la ginecología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Obstetrícia E Ginecologia",
+        "description": "Este usuário atua na área de Obstetrícia e Ginecologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "og01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cardio Obstetrics",
+        "description": "This user works in the field of Obstetrics & Cardiology Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Obstetricia Cardiovascular",
+        "description": "Este usuario trabaja en el campo de la Obstetricia y la Cardiología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cardio Obstetrícia",
+        "description": "Este usuário atua na área de Obstetrícia e Cardiologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "og02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Complex Family Planning",
+        "description": "This user works in the field of Complex Family Planning. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Planificación Familiar Compleja",
+        "description": "Este usuario trabaja en el campo de la Planificación Familiar Compleja. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Planejamento Familiar Complexo",
+        "description": "Este usuário trabalha na área de Planejamento Familiar Complexo. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "og03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Critical Care Obstetrics",
+        "description": "This user works in the field of Critical Care Obstetrics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Obstetricia De Cuidados Críticos",
+        "description": "Este usuario trabaja en el campo de la obstetricia en cuidados críticos. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Obstetrícia De Cuidados Críticos",
+        "description": "Este usuário trabalha na área de Obstetrícia de Cuidados Intensivos. Esta identificação serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "og04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Gynecologic Oncology",
+        "description": "This user works in the field of Gynecologic Oncology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Oncología Ginecológica",
+        "description": "Este usuario trabaja en el campo de la oncología ginecológica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Oncologia Ginecológica",
+        "description": "Este usuário atua na área de Oncologia Ginecológica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "og05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Labor & Delivery",
+        "description": "This user works in the field of Labor & Delivery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Trabajo De Parto Y Parto",
+        "description": "Este usuario trabaja en el área de Trabajo de Parto y Parto. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Trabalho De Parto E Parto",
+        "description": "Este usuário trabalha na área de Trabalho de Parto e Parto. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "og06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Maternal & Fetal Medicine",
+        "description": "This user works in the field of Maternal-Fetal Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Materno-Fetal",
+        "description": "Este usuario trabaja en el campo de la medicina maternofetal. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Materna E Fetal",
+        "description": "Este usuário atua na área de Medicina Materno-Fetal. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "og07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Menopausal & Geriatric Gynecology",
+        "description": "This user works in the field of Menopausal & Geriatric Gynecology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Ginecología Menopáusica Y Geriátrica",
+        "description": "Este usuario trabaja en el campo de la ginecología menopáusica y geriátrica. Esta etiqueta solo tiene fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Ginecologia Menopausa E Geriátrica",
+        "description": "Este usuário atua na área de Ginecologia Menopausa e Geriátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "og08",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Minimally Invasive Gynecologic Surgery",
+        "description": "This user works in the field of Minimally Invasive Gynecologic Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Ginecológica Mínimamente Invasiva",
+        "description": "Este usuario trabaja en el campo de la cirugía ginecológica mínimamente invasiva. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Ginecológica Minimamente Invasiva",
+        "description": "Este usuário atua na área de Cirurgia Ginecológica Minimamente Invasiva. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "og09",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric & Adolescent Gynecology",
+        "description": "This user works in the field of Pediatric & Adolescent Gynecology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Ginecología Pediátrica Y Adolescente",
+        "description": "Este usuario trabaja en el campo de la ginecología pediátrica y adolescente. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Ginecologia Pediátrica E Adolescente",
+        "description": "Este usuário atua na área de Ginecologia Pediátrica e Adolescente. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "og10",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Reconstructive Pelvic Surgery",
+        "description": "This user works in the field of Reconstructive Pelvic Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Reconstructiva Pélvica",
+        "description": "Este usuario trabaja en el campo de la Cirugía Pélvica Reconstructiva. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Pélvica Reconstrutiva",
+        "description": "Este usuário atua na área de Cirurgia Pélvica Reconstrutiva. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "og11",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Reproductive Endocrinology & Infertility",
+        "description": "This user works in the field of Reproductive Endocrinology & Infertility. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Endocrinología Reproductiva E Infertilidad",
+        "description": "Este usuario trabaja en el campo de la endocrinología reproductiva y la infertilidad. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Endocrinologia Reprodutiva E Infertilidade",
+        "description": "Este usuário atua na área de Endocrinologia Reprodutiva e Infertilidade. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "og12",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Urogynecology",
+        "description": "This user works in the field of Urogynecology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Uroginecología",
+        "description": "Este usuario trabaja en el campo de la uroginecología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Uroginecologia",
+        "description": "Este usuário atua na área de Uroginecologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

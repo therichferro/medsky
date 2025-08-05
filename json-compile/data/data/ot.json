@@ -1,0 +1,142 @@
+[
+  {
+    "identifier": "ot00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Otolaryngology",
+        "description": "This user works in the field of Otolaryngology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Otorrinolaringología",
+        "description": "Este usuario trabaja en el campo de la otorrinolaringología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Otorrinolaringologia",
+        "description": "Este usuário atua na área de Otorrinolaringologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ot01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Facial Plastic Surgery",
+        "description": "This user works in the field of Facial Plastic Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Plástica Facial",
+        "description": "Este usuario trabaja en el campo de la cirugía plástica facial. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Plástica Facial",
+        "description": "Este usuário atua na área de Cirurgia Plástica Facial. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ot02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Head & Neck Plastic Surgery",
+        "description": "This user works in the field of Head & Neck Plastic Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Plástica De Cabeza Y Cuello",
+        "description": "Este usuario trabaja en el campo de la cirugía plástica de cabeza y cuello. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Plástica De Cabeça E Pescoço",
+        "description": "Este usuário atua na área de Cirurgia Plástica de Cabeça e Pescoço. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ot03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Otolaryngic Allergy",
+        "description": "This user works in the field of Otolaryngic Allergy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Alergia Otorrinolaringológica",
+        "description": "Este usuario trabaja en el campo de la alergia otorrinolaringológica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Alergia Otorrinolaringológica",
+        "description": "Este usuário atua na área de Alergia Otorrinolaringológica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ot04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Otology & Neurotology",
+        "description": "This user works in the field of Neurotology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Otología Y Neurotología",
+        "description": "Este usuario trabaja en el campo de la neurotología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Otologia E Neurotologia",
+        "description": "Este usuário atua na área de Otoneurologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ot05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Otolaryngology",
+        "description": "This user works in the field of Pediatric Otolaryngology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Otorrinolaringología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la otorrinolaringología pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Otorrinolaringologia Pediátrica",
+        "description": "Este usuário atua na área de Otorrinolaringologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ot06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Oral & Maxillofacial Surgery",
+        "description": "This user works in the field of Oral & Maxillofacial Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Oral Y Maxilofacial",
+        "description": "Este usuario trabaja en el campo de la cirugía oral y maxilofacial. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Oral E Maxilofacial",
+        "description": "Este usuário atua na área de Cirurgia Bucomaxilofacial. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "identifier": "oc00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Ophthalmology",
+        "description": "This user works in the field of Ophthalmology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Oftalmología",
+        "description": "Este usuario trabaja en el campo de la oftalmología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Oftalmologia",
+        "description": "Este usuário atua na área de Oftalmologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "oc01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Anterior Segment Surgery",
+        "description": "This user works in the field of Anterior Segment Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Del Segmento Anterior",
+        "description": "Este usuario trabaja en el campo de la cirugía del segmento anterior. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Do Segmento Anterior",
+        "description": "Este usuário atua na área de Cirurgia do Segmento Anterior. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "oc02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cataracts & Refractive Surgery",
+        "description": "This user works in the field of Cataracts & Refractive Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cataratas Y Cirugía Refractiva",
+        "description": "Este usuario trabaja en el campo de las cataratas y la cirugía refractiva. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cataratas E Cirurgia Refrativa",
+        "description": "Este usuário atua na área de Catarata e Cirurgia Refrativa. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "oc03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cornea & External Disease",
+        "description": "This user works in the field of Cornea & External Disease. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Córnea Y Enfermedades Externas",
+        "description": "Este usuario trabaja en el campo de la córnea y enfermedades externas. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Córnea E Doenças Externas",
+        "description": "Este usuário atua na área de Córnea e Doenças Externas. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "oc04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Glaucoma",
+        "description": "This user works in the field of Ophthalmology with a focus on the management of Glaucoma. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Glaucoma",
+        "description": "Este usuario trabaja en el campo de la oftalmología, con especialización en el manejo del glaucoma. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Glaucoma",
+        "description": "Este usuário atua na área de Oftalmologia, com foco no tratamento de Glaucoma. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "oc05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Neuro-Ophthalmology",
+        "description": "This user works in the field of Neuro-Ophthalmology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Neurooftalmología",
+        "description": "Este usuario trabaja en el campo de la neurooftalmología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Neuro-Oftalmologia",
+        "description": "Este usuário atua na área de Neuro-Oftalmologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "oc06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Ocular Immunology",
+        "description": "This user works in the field of Ocular Immunology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Inmunología Ocular",
+        "description": "Este usuario trabaja en el campo de la inmunología ocular. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Imunologia Ocular",
+        "description": "Este usuário trabalha na área de Imunologia Ocular. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "oc07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Ocular Oncology",
+        "description": "This user works in the field of Ocular Oncology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Oncología Ocular",
+        "description": "Este usuario trabaja en el campo de la oncología ocular. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Oncologia Ocular",
+        "description": "Este usuário atua na área de Oncologia Ocular. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "oc08",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Oculoplastic Surgery",
+        "description": "This user works in the field of Ophthalmic Plastic & Reconstructive Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Oculoplástica",
+        "description": "Este usuario trabaja en el campo de la Cirugía Plástica y Reconstructiva Oftálmica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Plástica Ocular",
+        "description": "Este usuário atua na área de Cirurgia Plástica e Reconstrutiva Oftálmica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "oc09",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Ophthalmology",
+        "description": "This user works in the field of Peds Ophthalmology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Oftalmología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la oftalmología pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Oftalmologia Pediátrica",
+        "description": "Este usuário atua na área de Oftalmologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "oc10",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Strabismus Care",
+        "description": "This user works in the field of Strabismus Care. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cuidado Del Estrabismo",
+        "description": "Este usuario trabaja en el campo del cuidado del estrabismo. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cuidados Com Estrabismo",
+        "description": "Este usuário trabalha na área de Tratamento de Estrabismo. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "oc11",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Retinal Ophthalmology",
+        "description": "This user works in the field of Retinal Ophthalmology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Oftalmología De La Retina",
+        "description": "Este usuario trabaja en el campo de la oftalmología retiniana. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Oftalmologia Da Retina",
+        "description": "Este usuário atua na área de Oftalmologia da Retina. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "oc12",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Uveitis & Ocular Inflammatory Disease",
+        "description": "This user works in the field of Uveitis & Ocular Inflammatory Disease. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Uveítis Y Enfermedad Inflamatoria Ocular",
+        "description": "Este usuario trabaja en el campo de la uveítis y la enfermedad inflamatoria ocular. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Uveíte E Doença Inflamatória Ocular",
+        "description": "Este usuário atua na área de Uveíte e Doenças Inflamatórias Oculares. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "oc13",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Vitreo-Retinal Surgery",
+        "description": "This user works in the field of Vitreo-Retinal Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Vítreo-Retiniana",
+        "description": "Este usuario trabaja en el campo de la cirugía vítreo-retiniana. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Vítreo-Retiniana",
+        "description": "Este usuário atua na área de Cirurgia Vítreo-Retiniana. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "oc14",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Optometry",
+        "description": "This user works in the field of Optometry. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Optometría",
+        "description": "Este usuario trabaja en el campo de la optometría. Esta etiqueta es solo para fines de red y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Optometria",
+        "description": "Este usuário trabalha na área de Optometria. Esta identificação serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

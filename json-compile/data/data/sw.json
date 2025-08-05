@@ -1,0 +1,62 @@
+[
+  {
+    "identifier": "sw00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Social Work",
+        "description": "This user works in the field of Social Work. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Trabajo Social",
+        "description": "Este usuario trabaja en el campo del Trabajo Social. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Serviço Social",
+        "description": "Este usuário trabalha na área de Serviço Social. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "sw01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Clinical Social Work",
+        "description": "This user works in the field of Clinical Social Work. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Trabajo Social Clínico",
+        "description": "Este usuario trabaja en el campo del Trabajo Social Clínico. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Serviço Social Clínico",
+        "description": "Este usuário atua na área de Serviço Social Clínico. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "sw02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "School Social Work",
+        "description": "This user works in the field of School Social Work. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Trabajo Social Escolar",
+        "description": "Este usuario trabaja en el campo del Trabajo Social Escolar. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Serviço Social Escolar",
+        "description": "Este usuário trabalha na área de Serviço Social Escolar. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

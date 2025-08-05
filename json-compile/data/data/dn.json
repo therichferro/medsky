@@ -1,0 +1,182 @@
+[
+  {
+    "identifier": "dn00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "General Dentistry",
+        "description": "This user works in the field of General Dentistry. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Odontología General",
+        "description": "Este usuario trabaja en el campo de la Odontología General. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Odontologia Geral",
+        "description": "Este usuário atua na área de Odontologia Geral. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "dn01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cosmetic Dentistry",
+        "description": "This user works in the field of Cosmetic Dentistry. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Odontología Cosmética",
+        "description": "Este usuario trabaja en el campo de la odontología cosmética. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Odontologia Estética",
+        "description": "Este usuário atua na área de Odontologia Estética. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "dn02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Endodontics",
+        "description": "This user works in the field of Endodontics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Endodoncia",
+        "description": "Este usuario trabaja en el campo de la endodoncia. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Endodontia",
+        "description": "Este usuário atua na área de Endodontia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "dn03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Family Dentistry",
+        "description": "This user works in the field of Family Dentistry. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Odontología Familiar",
+        "description": "Este usuario trabaja en el campo de la odontología familiar. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Odontologia Familiar",
+        "description": "Este usuário atua na área de Odontologia Familiar. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "dn04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Oral & Maxillofacial Surgery",
+        "description": "This user works in the field of Oral & Maxillofacial Surgery. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cirugía Oral Y Maxilofacial",
+        "description": "Este usuario trabaja en el campo de la cirugía oral y maxilofacial. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cirurgia Oral E Maxilofacial",
+        "description": "Este usuário atua na área de Cirurgia Bucomaxilofacial. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "dn05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Orthodontics",
+        "description": "This user works in the field of Orthodontics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Ortodoncia",
+        "description": "Este usuario trabaja en el campo de la ortodoncia. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Ortodontia",
+        "description": "Este usuário atua na área de Ortodontia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "dn06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Dentistry",
+        "description": "This user works in the field of Pediatric Dentistry. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Odontología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la odontología pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Odontopediatria",
+        "description": "Este usuário atua na área de Odontopediatria. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "dn07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Periodontics",
+        "description": "This user works in the field of Periodontics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Periodoncia",
+        "description": "Este usuario trabaja en el campo de la periodoncia. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Periodontia",
+        "description": "Este usuário atua na área de Periodontia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "dn08",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Prosthodontics",
+        "description": "This user works in the field of Prosthodontics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Prótesis Dentales",
+        "description": "Este usuario trabaja en el campo de la prostodoncia. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Prótese Dentária",
+        "description": "Este usuário atua na área de Prótese Dentária. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

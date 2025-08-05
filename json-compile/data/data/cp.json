@@ -1,0 +1,722 @@
+[
+  {
+    "identifier": "cp00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Psychology",
+        "description": "This user works in the field of Psychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicología",
+        "description": "Este usuario trabaja en el campo de la psicología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicologia",
+        "description": "Este usuário trabalha na área de Psicologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Addiction Counseling",
+        "description": "This user works in the field of Addiction Counseling. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Asesoramiento Sobre Adicciones",
+        "description": "Este usuario trabaja en el campo de la consejería en adicciones. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Aconselhamento Sobre Dependência Química",
+        "description": "Este usuário trabalha na área de Aconselhamento para Dependência Química. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Addiction Psychology",
+        "description": "This user works in the field of Addiction Psychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicología De La Adicción",
+        "description": "Este usuario trabaja en el campo de la psicología de las adicciones. Esta etiqueta solo tiene fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicologia Da Dependência Química",
+        "description": "Este usuário trabalha na área de Psicologia da Dependência Química. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Adult Development & Aging",
+        "description": "This user works in the field of Adult Development & Aging. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Desarrollo Y Envejecimiento De Los Adultos",
+        "description": "Este usuario trabaja en el campo del Desarrollo y Envejecimiento de Adultos. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Desenvolvimento E Envelhecimento Adulto",
+        "description": "Este usuário trabalha na área de Desenvolvimento e Envelhecimento de Adultos. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Behavior Analysis",
+        "description": "This user works in the field of Behavior Analysis. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Análisis Del Comportamiento",
+        "description": "Este usuario trabaja en el campo del análisis de conducta. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Análise Do Comportamento",
+        "description": "Este usuário trabalha na área de Análise do Comportamento. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Clinical Child & Adolescent Psychology",
+        "description": "This user works in the field of Clinical Child & Adolescent Psychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicología Clínica Infantil Y Adolescente",
+        "description": "Este usuario trabaja en el campo de la Psicología Clínica Infantil y Adolescente. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicologia Clínica Da Criança E Do Adolescente",
+        "description": "Este usuário atua na área de Psicologia Clínica da Infância e Adolescência. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Clinical Neuropsychology",
+        "description": "This user works in the field of Clinical Neuropsychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Neuropsicología Clínica",
+        "description": "Este usuario trabaja en el campo de la neuropsicología clínica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Neuropsicologia Clínica",
+        "description": "Este usuário atua na área de Neuropsicologia Clínica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Clinical Psychology",
+        "description": "This user works in the field of Clinical Psychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicología Clínica",
+        "description": "Este usuario trabaja en el campo de la psicología clínica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicologia Clínica",
+        "description": "Este usuário atua na área de Psicologia Clínica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp08",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cognitive & Behavioral Psychology",
+        "description": "This user works in the field of Cognitive & Behavioral Psychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicología Cognitiva Y Conductual",
+        "description": "Este usuario trabaja en el campo de la Psicología Cognitiva y Conductual. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicologia Cognitiva E Comportamental",
+        "description": "Este usuário atua na área de Psicologia Cognitiva e Comportamental. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp09",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cognitive Behavioral Therapy",
+        "description": "This user works in the field of Cognitive Behavioral Therapy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Terapia Cognitivo-Conductual",
+        "description": "Este usuario trabaja en el campo de la terapia cognitivo-conductual. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Terapia Cognitivo-Comportamental",
+        "description": "Este usuário atua na área de Terapia Cognitivo-Comportamental. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp10",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Counseling",
+        "description": "This user works in the field of Counseling. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Asesoramiento",
+        "description": "Este usuario trabaja en el campo de la consejería. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Aconselhamento",
+        "description": "Este usuário trabalha na área de Aconselhamento. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp11",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Drama Therapy",
+        "description": "This user works in the field of Drama Therapy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Terapia De Drama",
+        "description": "Este usuario trabaja en el campo de la dramaterapia. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Terapia Dramática",
+        "description": "Este usuário atua na área de Terapia Dramática. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp12",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Educational Psychology",
+        "description": "This user works in the field of Educational Psychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicología Educativa",
+        "description": "Este usuario trabaja en el campo de la Psicología Educativa. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicologia Educacional",
+        "description": "Este usuário atua na área de Psicologia Educacional. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp13",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Exercise & Sports Psychology",
+        "description": "This user works in the field of Exercise & Sports Psychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicología Del Ejercicio Y El Deporte",
+        "description": "Este usuario trabaja en el campo de la Psicología del Ejercicio y el Deporte. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicologia Do Exercício E Do Esporte",
+        "description": "Este usuário atua na área de Psicologia do Exercício e do Esporte. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp14",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Family Psychology",
+        "description": "This user works in the field of Family Psychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicología Familiar",
+        "description": "Este usuario trabaja en el campo de la psicología familiar. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicologia Familiar",
+        "description": "Este usuário atua na área de Psicologia Familiar. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp15",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Feminine Psychology",
+        "description": "This user works in the field of Feminine Psychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicología Femenina",
+        "description": "Este usuario trabaja en el campo de la Psicología Femenina. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicologia Feminina",
+        "description": "Esta usuária atua na área de Psicologia Feminina. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp16",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Forensic Psychology",
+        "description": "This user works in the field of Forensic Psychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicología Forense",
+        "description": "Este usuario trabaja en el campo de la psicología forense. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicologia Forense",
+        "description": "Este usuário trabalha na área de Psicologia Forense. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp17",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Group Psychotherapy",
+        "description": "This user works in the field of Group Psychotherapy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicoterapia De Grupo",
+        "description": "Este usuario trabaja en el campo de la psicoterapia de grupo. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicoterapia De Grupo",
+        "description": "Este usuário atua na área de Psicoterapia de Grupo. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp18",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Health Psychology",
+        "description": "This user works in the field of Health Psychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicología De La Salud",
+        "description": "Este usuario trabaja en el campo de la psicología de la salud. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicologia Da Saúde",
+        "description": "Este usuário atua na área de Psicologia da Saúde. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp19",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Health Service Psychology",
+        "description": "This user works in the field of Health Service Psychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicología Del Servicio De Salud",
+        "description": "Este usuario trabaja en el campo de la Psicología de Servicios de Salud. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicologia Do Serviço De Saúde",
+        "description": "Este usuário trabalha na área de Psicologia de Serviços de Saúde. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp20",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Intellectual & Developmental Disabilities Psychology",
+        "description": "This user works in the field of Intellectual & Developmental Disabilities Psychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicología De Las Discapacidades Intelectuales Y Del Desarrollo",
+        "description": "Este usuario trabaja en el campo de la Psicología de las Discapacidades Intelectuales y del Desarrollo. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicologia Das Deficiências Intelectuais E Do Desenvolvimento",
+        "description": "Este usuário atua na área de Psicologia de Deficiências Intelectuais e de Desenvolvimento. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp21",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Marriage & Family Therapy",
+        "description": "This user works in the field of Marriage & Family Therapy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Terapia Matrimonial Y Familiar",
+        "description": "Este usuario trabaja en el campo de la terapia matrimonial y familiar. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Terapia De Casal E Família",
+        "description": "Este usuário atua na área de Terapia Conjugal e Familiar. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp22",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Mental Health Counseling",
+        "description": "This user works in the field of Mental Health Counseling. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Asesoramiento En Salud Mental",
+        "description": "Este usuario trabaja en el campo de la consejería en salud mental. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Aconselhamento Em Saúde Mental",
+        "description": "Este usuário atua na área de Aconselhamento em Saúde Mental. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp23",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Men & Masculinity Psychology",
+        "description": "This user works in the field of Men & Masculinity Psychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicología De Los Hombres Y La Masculinidad",
+        "description": "Este usuario trabaja en el campo de la psicología masculina y de la masculinidad. Esta etiqueta solo tiene fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicologia Do Homem E Da Masculinidade",
+        "description": "Este usuário atua na área de Psicologia Masculina e Masculinidade. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp24",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Music Therapy",
+        "description": "This user works in the field of Music Therapy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Terapia Musical",
+        "description": "Este usuario trabaja en el campo de la musicoterapia. Esta etiqueta solo tiene fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Musicoterapia",
+        "description": "Este usuário atua na área de Musicoterapia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp25",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Neuropsychology",
+        "description": "This user works in the field of Neuropsychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Neuropsicología",
+        "description": "Este usuario trabaja en el campo de la neuropsicología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Neuropsicologia",
+        "description": "Este usuário atua na área de Neuropsicologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp26",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pastoral Counseling",
+        "description": "This user works in the field of Pastoral Counseling. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Consejería Pastoral",
+        "description": "Este usuario trabaja en el campo de la consejería pastoral. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Aconselhamento Pastoral",
+        "description": "Este usuário trabalha na área de Aconselhamento Pastoral. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp27",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Poetry Therapy",
+        "description": "This user works in the field of Poetry Therapy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Terapia De Poesía",
+        "description": "Este usuario trabaja en el campo de la poesoterapia. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Terapia Poesia",
+        "description": "Este usuário atua na área de Terapia Poesia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp28",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Prescribing Psychology",
+        "description": "This user works in the field of Prescribing Psychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicología De La Prescripción",
+        "description": "Este usuario trabaja en el campo de la Psicología de la Prescripción. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicologia Da Prescrição",
+        "description": "Este usuário atua na área de Psicologia da Prescrição. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp29",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Psychoanalysis",
+        "description": "This user works in the field of Psychoanalysis. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicoanálisis",
+        "description": "Este usuario trabaja en el campo del psicoanálisis. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicanálise",
+        "description": "Este usuário trabalha na área de Psicanálise. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp30",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Psychoanalytics",
+        "description": "This user works in the field of Psychoanalytics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicoanalítica",
+        "description": "Este usuario trabaja en el campo del psicoanálisis. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicanalítica",
+        "description": "Este usuário atua na área de Psicanálise. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp31",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Psychotherapy",
+        "description": "This user works in the field of Psychotherapy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicoterapia",
+        "description": "Este usuario trabaja en el campo de la psicoterapia. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicoterapia",
+        "description": "Este usuário atua na área de Psicoterapia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp32",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Rehabilitation Psychology",
+        "description": "This user works in the field of Rehabilitation Psychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicología De La Rehabilitación",
+        "description": "Este usuario trabaja en el campo de la Psicología de la Rehabilitación. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicologia Da Reabilitação",
+        "description": "Este usuário atua na área de Psicologia da Reabilitação. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp33",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "School Psychology",
+        "description": "This user works in the field of School Psychology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psicología Escolar",
+        "description": "Este usuario trabaja en el campo de la psicología escolar. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psicologia Escolar",
+        "description": "Este usuário trabalha na área de Psicologia Escolar. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp34",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "School Counseling",
+        "description": "This user works in the field of School Counseling. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Orientación Escolar",
+        "description": "Este usuario trabaja en el campo de la orientación escolar. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Aconselhamento Escolar",
+        "description": "Este usuário trabalha na área de Aconselhamento Escolar. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "cp35",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Spiritual Care",
+        "description": "This user works in the field of Spiritual Care. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cuidado Espiritual",
+        "description": "Este usuario trabaja en el campo de la atención espiritual. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cuidado Espiritual",
+        "description": "Este usuário trabalha na área de Cuidado Espiritual. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]  

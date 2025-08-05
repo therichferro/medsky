@@ -1,0 +1,522 @@
+[
+  {
+    "identifier": "pe00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatrics",
+        "description": "This user works in the field of Pediatrics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Pediatría",
+        "description": "Este usuario trabaja en el campo de la pediatría. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Pediatria",
+        "description": "Este usuário atua na área de Pediatria. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Adolescent Medicine",
+        "description": "This user works in the field of Adolescent Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Del Adolescente",
+        "description": "Este usuario trabaja en el campo de la medicina adolescente. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Do Adolescente",
+        "description": "Este usuário atua na área de Medicina para Adolescentes. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Child Abuse Pediatrics",
+        "description": "This user works in the field of Child Abuse Pediatrics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Pediatría Del Maltrato Infantil",
+        "description": "Este usuario trabaja en el campo de la Pediatría del Maltrato Infantil. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Pediatria De Abuso Infantil",
+        "description": "Este usuário trabalha na área de Pediatria para Abuso Infantil. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Developmental-Behavioral Pediatrics",
+        "description": "This user works in the field of Developmental-Behavioral Pediatrics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Pediatría Del Desarrollo Y Del Comportamiento",
+        "description": "Este usuario trabaja en el campo de la Pediatría del Desarrollo y la Conducta. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Pediatria Do Desenvolvimento Comportamental",
+        "description": "Este usuário atua na área de Pediatria do Desenvolvimento Comportamental. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Neonatal Critical Care",
+        "description": "This user works in the field of Neonatal Critical Care Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cuidados Críticos Neonatales",
+        "description": "Este usuario trabaja en el campo de la Medicina de Cuidados Intensivos Neonatales. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cuidados Críticos Neonatais",
+        "description": "Este usuário atua na área de Medicina Intensiva Neonatal. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Neonatal-Perinatal Medicine",
+        "description": "This user works in the field of Neonatal-Perinatal Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Neonatal Y Perinatal",
+        "description": "Este usuario trabaja en el campo de la Medicina Neonatal-Perinatal. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Neonatal-Perinatal",
+        "description": "Este usuário atua na área de Medicina Neonatal-Perinatal. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Neurodevelopmental Disabilities",
+        "description": "This user works in the field of Neurodevelopmental Disabilities. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Discapacidades Del Desarrollo Neurológico",
+        "description": "Este usuario trabaja en el campo de las discapacidades del neurodesarrollo. Esta etiqueta solo tiene fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Deficiências Do Neurodesenvolvimento",
+        "description": "Este usuário trabalha na área de Deficiências do Neurodesenvolvimento. Esta identificação serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Cardiology",
+        "description": "This user works in the field of Pediatric Cardiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cardiología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la cardiología pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cardiologia Pediátrica",
+        "description": "Este usuário atua na área de Cardiologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe08",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Critical Care",
+        "description": "This user works in the field of Pediatric Critical Care Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cuidados Críticos Pediátricos",
+        "description": "Este usuario trabaja en el campo de la Medicina Intensiva Pediátrica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cuidados Intensivos Pediátricos",
+        "description": "Este usuário atua na área de Medicina Intensiva Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe09",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Emergency Medicine",
+        "description": "This user works in the field of Pediatric Emergency Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina De Emergencia Pediátrica",
+        "description": "Este usuario trabaja en el campo de la Medicina de Urgencias Pediátricas. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina De Emergência Pediátrica",
+        "description": "Este usuário atua na área de Medicina de Emergência Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe10",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Endocrinology",
+        "description": "This user works in the field of Pediatric Endocrinology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Endocrinología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la endocrinología pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Endocrinologia Pediátrica",
+        "description": "Este usuário atua na área de Endocrinologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe11",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Gastroenterology",
+        "description": "This user works in the field of Pediatric Gastroenterology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Gastroenterología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la Gastroenterología Pediátrica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Gastroenterologia Pediátrica",
+        "description": "Este usuário atua na área de Gastroenterologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe12",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Hematology",
+        "description": "This user works in the field of Pediatric Hematology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Hematología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la hematología pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Hematologia Pediátrica",
+        "description": "Este usuário atua na área de Hematologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe13",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Hematology & Oncology",
+        "description": "This user works in the field of Pediatric Hematology/Oncology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Hematología Y Oncología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la Hematología/Oncología Pediátrica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Hematologia E Oncologia Pediátrica",
+        "description": "Este usuário atua na área de Hematologia/Oncologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe14",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Hospital Medicine",
+        "description": "This user works in the field of Pediatric Hospital Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Hospitalaria Pediátrica",
+        "description": "Este usuario trabaja en el campo de la Medicina Pediátrica Hospitalaria. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Hospitalar Pediátrica",
+        "description": "Este usuário atua na área de Medicina Pediátrica Hospitalar. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe15",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Hospice & Palliative Medicine",
+        "description": "This user works in the field of Pediatric Hospice & Palliative Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Hospicio Pediátrico Y Medicina Paliativa",
+        "description": "Este usuario trabaja en el campo de Hospicio Pediátrico y Medicina Paliativa. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cuidados Paliativos E Hospice Pediátrico",
+        "description": "Este usuário atua na área de Cuidados Paliativos e Cuidados Paliativos Pediátricos. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe16",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Infectious Diseases",
+        "description": "This user works in the field of Pediatric Infectious Disease. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Enfermedades Infecciosas Pediátricas",
+        "description": "Este usuario trabaja en el campo de las enfermedades infecciosas pediátricas. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Doenças Infecciosas Pediátricas",
+        "description": "Este usuário atua na área de Doenças Infecciosas Pediátricas. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe17",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Medical Toxicology",
+        "description": "This user works in the field of Pediatric Medical Toxicology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Toxicología Médica Pediátrica",
+        "description": "Este usuario trabaja en el campo de la toxicología médica pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Toxicologia Médica Pediátrica",
+        "description": "Este usuário atua na área de Toxicologia Médica Pediátrica. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe18",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Nephrology",
+        "description": "This user works in the field of Pediatric Nephrology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Nefrología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la nefrología pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Nefrologia Pediátrica",
+        "description": "Este usuário atua na área de Nefrologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe19",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Obesity Medicine",
+        "description": "This user works in the field of Pediatric Obesity Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina De La Obesidad Pediátrica",
+        "description": "Este usuario trabaja en el campo de la medicina de la obesidad pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Da Obesidade Pediátrica",
+        "description": "Este usuário atua na área de Medicina da Obesidade Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe20",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Oncology",
+        "description": "This user works in the field of Pediatric Oncology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Oncología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la oncología pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Oncologia Pediátrica",
+        "description": "Este usuário atua na área de Oncologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe21",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Pulmonology",
+        "description": "This user works in the field of Pediatric Pulmonology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Neumología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la neumología pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Pneumologia Pediátrica",
+        "description": "Este usuário atua na área de Pneumologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe22",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Rheumatology",
+        "description": "This user works in the field of Pediatric Rheumatology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Reumatología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la reumatología pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Reumatologia Pediátrica",
+        "description": "Este usuário atua na área de Reumatologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe23",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Sleep Medicine",
+        "description": "This user works in the field of Pediatric Sleep Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Del Sueño Pediátrica",
+        "description": "Este usuario trabaja en el campo de la Medicina Pediátrica del Sueño. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Do Sono Pediátrica",
+        "description": "Este usuário atua na área de Medicina do Sono Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe24",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Sports Medicine",
+        "description": "This user works in the field of Pediatric Sports Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Deportiva Pediátrica",
+        "description": "Este usuario trabaja en el campo de la Medicina Deportiva Pediátrica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Esportiva Pediátrica",
+        "description": "Este usuário atua na área de Medicina Esportiva Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pe25",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Transplant Medicine",
+        "description": "This user works in the field of Pediatric Transplant Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina De Trasplantes Pediátricos",
+        "description": "Este usuario trabaja en el campo de la Medicina de Trasplantes Pediátricos. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina De Transplante Pediátrico",
+        "description": "Este usuário atua na área de Medicina de Transplante Pediátrico. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

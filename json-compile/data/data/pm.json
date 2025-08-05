@@ -1,0 +1,342 @@
+[
+  {
+    "identifier": "pm00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Preventive Medicine",
+        "description": "This user works in the field of General Preventive Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Preventiva",
+        "description": "Este usuario trabaja en el campo de la Medicina Preventiva General. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Preventiva",
+        "description": "Este usuário atua na área de Medicina Preventiva Geral. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pm01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Addiction Medicine",
+        "description": "This user works in the field of Addiction Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina De La Adicción",
+        "description": "Este usuario trabaja en el campo de la medicina de las adicciones. Esta etiqueta solo tiene fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Da Dependência",
+        "description": "Este usuário atua na área de Medicina da Dependência Química. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pm02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Aerospace Medicine",
+        "description": "This user works in the field of Aerospace Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Aeroespacial",
+        "description": "Este usuario trabaja en el campo de la medicina aeroespacial. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Aeroespacial",
+        "description": "Este usuário trabalha na área de Medicina Aeroespacial. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pm03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Epidemiology",
+        "description": "This user works in the field of Epidemiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Epidemiología",
+        "description": "Este usuario trabaja en el campo de la epidemiología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Epidemiologia",
+        "description": "Este usuário trabalha na área de Epidemiologia. Esta identificação serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pm04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Global Health",
+        "description": "This user works in the field of Global Health. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Salud Global",
+        "description": "Este usuario trabaja en el campo de la salud global. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Saúde Global",
+        "description": "Este usuário trabalha na área de Saúde Global. Esta identificação serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pm05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Healthcare Advocacy",
+        "description": "This user works in the field of Healthcare Advocacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Defensa De La Salud",
+        "description": "Este usuario trabaja en el campo de la defensa de la salud. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Advocacia Em Saúde",
+        "description": "Este usuário atua na área de Advocacia em Saúde. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pm06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Health Policy",
+        "description": "This user works in the field of Healthcare Policy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Política De Salud",
+        "description": "Este usuario trabaja en el campo de las políticas sanitarias. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Política De Saúde",
+        "description": "Este usuário trabalha na área de Políticas de Saúde. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pm07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Medical Toxicology",
+        "description": "This user works in the field of Medical Toxicology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Toxicología Médica",
+        "description": "Este usuario trabaja en el campo de la toxicología médica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Toxicologia Médica",
+        "description": "Este usuário atua na área de Toxicologia Médica. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pm08",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Medication-Assisted Treatment",
+        "description": "This user works in the field of Medication-Assisted Treatment. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Tratamiento Asistido Con Medicamentos",
+        "description": "Este usuario trabaja en el campo del tratamiento asistido con medicamentos. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Tratamento Assistido Por Medicamentos",
+        "description": "Este usuário trabalha na área de Tratamento Assistido por Medicamentos. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pm09",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Obesity Medicine",
+        "description": "This user works in the field of Obesity Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina De La Obesidad",
+        "description": "Este usuario trabaja en el campo de la medicina de la obesidad. Esta etiqueta solo tiene fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Da Obesidade",
+        "description": "Este usuário atua na área de Medicina da Obesidade. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pm10",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Occupational Medicine",
+        "description": "This user works in the field of Occupational Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Del Trabajo",
+        "description": "Este usuario trabaja en el campo de la medicina del trabajo. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Do Trabalho",
+        "description": "Este usuário atua na área de Medicina do Trabalho. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pm11",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Occupational Environmental Medicine",
+        "description": "This user works in the field of Occupational Environmental Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Ambiental Ocupacional",
+        "description": "Este usuario trabaja en el campo de la Medicina Ambiental Laboral. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Ambiental Ocupacional",
+        "description": "Este usuário atua na área de Medicina Ambiental Ocupacional. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pm12",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Public Health",
+        "description": "This user works in the field of Public Health. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Salud Pública",
+        "description": "Este usuario trabaja en el campo de la salud pública. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Saúde Pública",
+        "description": "Este usuário trabalha na área de Saúde Pública. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pm13",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Public Health & General Preventive Medicine",
+        "description": "This user works in the field of Public Health & General Preventive Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Salud Pública Y Medicina Preventiva General",
+        "description": "Este usuario trabaja en el campo de la Salud Pública y la Medicina Preventiva General. Esta etiqueta solo tiene fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Saúde Pública E Medicina Preventiva Geral",
+        "description": "Este usuário atua na área de Saúde Pública e Medicina Preventiva Geral. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pm14",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Population Health",
+        "description": "This user works in the field of Population Health. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Salud De La Población",
+        "description": "Este usuario trabaja en el campo de la salud poblacional. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Saúde Da População",
+        "description": "Este usuário trabalha na área de Saúde da População. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pm15",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Tropical Medicine",
+        "description": "This user works in the field of Tropical Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Tropical",
+        "description": "Este usuario trabaja en el campo de la medicina tropical. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Tropical",
+        "description": "Este usuário atua na área de Medicina Tropical. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pm16",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Undersea & Hyperbaric Medicine",
+        "description": "This user works in the field of Undersea & Hyperbaric Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Submarina E Hiperbárica",
+        "description": "Este usuario trabaja en el campo de la medicina subacuática e hiperbárica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Submarina E Hiperbárica",
+        "description": "Este usuário atua na área de Medicina Submarina e Hiperbárica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

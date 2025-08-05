@@ -1,0 +1,162 @@
+[
+  {
+    "identifier": "dm00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Dermatology",
+        "description": "This user works in the field of Dermatology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Dermatología",
+        "description": "Este usuario trabaja en el campo de la Dermatología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Dermatologia",
+        "description": "Este usuário atua na área de Dermatologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "dm01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Clinical & Laboratory Dermatological Immunology",
+        "description": "This user works in the field of Clinical & Laboratory Dermatological Immunology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Inmunología Dermatológica Clínica Y De Laboratorio",
+        "description": "Este usuario trabaja en el campo de la inmunología dermatológica clínica y de laboratorio. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Imunologia Dermatológica Clínica E Laboratorial",
+        "description": "Este usuário atua na área de Imunologia Dermatológica Clínica e Laboratorial. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "dm02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cosmetic Dermatology",
+        "description": "This user works in the field of Cosmetic Dermatology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Dermatología Cosmética",
+        "description": "Este usuario trabaja en el campo de la dermatología cosmética. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Dermatologia Cosmética",
+        "description": "Este usuário atua na área de Dermatologia Cosmética. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "dm03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Dermatologic Oncology",
+        "description": "This user works in the field of Dermatologic Oncology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Oncología Dermatológica",
+        "description": "Este usuario trabaja en el campo de la oncología dermatológica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Oncologia Dermatológica",
+        "description": "Este usuário atua na área de Oncologia Dermatológica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "dm04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Dermatopathology",
+        "description": "This user works in the field of Dermatopathology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Dermatopatología",
+        "description": "Este usuario trabaja en el campo de la Dermatopatología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Dermatopatologia",
+        "description": "Este usuário atua na área de Dermatopatologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "dm05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Immunodermatology",
+        "description": "This user works in the field of Immunodermatology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Inmunodermatología",
+        "description": "Este usuario trabaja en el campo de la inmunodermatología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Imunodermatologia",
+        "description": "Este usuário atua na área de Imunodermatologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "dm06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Dermatology",
+        "description": "This user works in the field of Pediatric Dermatology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Dermatología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la Dermatología Pediátrica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Dermatologia Pediátrica",
+        "description": "Este usuário atua na área de Dermatologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "dm07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Procedural Dermatology",
+        "description": "This user works in the field of Procedural Dermatology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Dermatología Procedimental",
+        "description": "Este usuario trabaja en el campo de la Dermatología de Procedimientos. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Dermatologia Processual",
+        "description": "Este usuário atua na área de Dermatologia Processual. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

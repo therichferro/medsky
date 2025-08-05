@@ -1,0 +1,162 @@
+[
+  {
+    "identifier": "em00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Emergency Medicine",
+        "description": "This user works in the field of Emergency Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina De Emergencia",
+        "description": "Este usuario trabaja en el campo de la medicina de urgencias. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina De Emergência",
+        "description": "Este usuário atua na área de Medicina de Emergência. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "em01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Disaster Medicine",
+        "description": "This user works in the field of Disaster Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina De Desastres",
+        "description": "Este usuario trabaja en el campo de la medicina de desastres. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina De Desastres",
+        "description": "Este usuário trabalha na área de Medicina de Desastres. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "em02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Emergency Medical Service",
+        "description": "This user works in the field of Emergency Medical Services. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Servicio Médico De Emergencia",
+        "description": "Este usuario trabaja en el área de Servicios Médicos de Emergencia. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Serviço Médico De Emergência",
+        "description": "Este usuário trabalha na área de Serviços Médicos de Emergência. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "em03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Field Medicine",
+        "description": "This user works in the field of Field Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina De Campo",
+        "description": "Este usuario trabaja en el campo de la medicina de campo. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina De Campo",
+        "description": "Este usuário atua na área de Medicina de Campo. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "em04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pre-Hospital EM",
+        "description": "This user works in the field of Pre-Hospital Emergency Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Urgencias Prehospitalarias",
+        "description": "Este usuario trabaja en el campo de la Medicina de Emergencia Prehospitalaria. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Emergência Pré-Hospitalar",
+        "description": "Este usuário atua na área de Medicina de Emergência Pré-Hospitalar. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "em05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Tactical Medicine",
+        "description": "This user works in the field of Tactical Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Táctica",
+        "description": "Este usuario trabaja en el campo de la Medicina Táctica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Tática",
+        "description": "Este usuário trabalha na área de Medicina Tática. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "em06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Urgent Care",
+        "description": "This user works in the field of Urgent Care. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Atención De Urgencias",
+        "description": "Este usuario trabaja en el área de Urgencias. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Atendimento De Urgência",
+        "description": "Este usuário trabalha na área de Atendimento de Urgência. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "em07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Wilderness Medicine",
+        "description": "This user works in the field of Wilderness Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina De La Naturaleza",
+        "description": "Este usuario trabaja en el campo de la medicina natural. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Da Natureza",
+        "description": "Este usuário trabalha na área de Medicina de Natureza. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

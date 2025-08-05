@@ -1,0 +1,402 @@
+[
+  {
+    "identifier": "ph00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pharmacy",
+        "description": "This user works in the field of Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia",
+        "description": "Este usuario trabaja en el sector farmacéutico. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia",
+        "description": "Este usuário trabalha na área de Farmácia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Ambulatory Care Pharmacy",
+        "description": "This user works in the field of Ambulatory Care Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia De Atención Ambulatoria",
+        "description": "Este usuario trabaja en el sector de Farmacia Ambulatoria. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia De Atendimento Ambulatorial",
+        "description": "Este usuário trabalha na área de Farmácia Ambulatorial. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Cardiology Pharmacy",
+        "description": "This user works in the field of Cardiology Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia De Cardiología",
+        "description": "Este usuario trabaja en el campo de la Farmacia Cardiológica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia Cardiologia",
+        "description": "Este usuário atua na área de Farmácia Cardiologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Critical Care Pharmacy",
+        "description": "This user works in the field of Critical Care Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia De Cuidados Intensivos",
+        "description": "Este usuario trabaja en el campo de la Farmacia de Cuidados Intensivos. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia De Cuidados Críticos",
+        "description": "Este usuário trabalha na área de Farmácia de Cuidados Intensivos. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Emergency Medicine Pharmacy",
+        "description": "This user works in the field of Emergency Medicine Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia De Medicina De Emergencia",
+        "description": "Este usuario trabaja en el campo de la farmacia de urgencias. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia De Medicina De Emergência",
+        "description": "Este usuário trabalha na área de Farmácia de Medicina de Emergência. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Geriatric Pharmacy",
+        "description": "This user works in the field of Geriatric Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia Geriátrica",
+        "description": "Este usuario trabaja en el campo de la farmacia geriátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia Geriátrica",
+        "description": "Este usuário atua na área de Farmácia Geriátrica. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Hospice Pharmacy",
+        "description": "This user works in the field of Hospice Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia De Hospicio",
+        "description": "Este usuario trabaja en el sector de Farmacia para Cuidados Paliativos. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia De Cuidados Paliativos",
+        "description": "Este usuário trabalha na área de Farmácia para Cuidados Paliativos. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "ID Pharmacy",
+        "description": "This user works in the field of Infectious Disease Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia De Enfermedades Infecciosas",
+        "description": "Este usuario trabaja en el campo de la Farmacia de Enfermedades Infecciosas. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia Doenças Infecciosas",
+        "description": "Este usuário trabalha na área de Farmácia de Doenças Infecciosas. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph08",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Inpatient Pharmacy",
+        "description": "This user works in the field of Inpatient Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia Para Pacientes Hospitalizados",
+        "description": "Este usuario trabaja en el sector de Farmacia para Pacientes Internos. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia Para Internação",
+        "description": "Este usuário trabalha na área de Farmácia para Internação. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph09",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Nuclear Pharmacy",
+        "description": "This user works in the field of Nuclear Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia Nuclear",
+        "description": "Este usuario trabaja en el campo de la Farmacia Nuclear. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia Nuclear",
+        "description": "Este usuário trabalha na área de Farmácia Nuclear. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph10",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Nutritional Support Pharmacy",
+        "description": "This user works in the field of Nutritional Support Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia De Apoyo Nutricional",
+        "description": "Este usuario trabaja en el sector de Farmacia de Apoyo Nutricional. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia De Suporte Nutricional",
+        "description": "Este usuário trabalha na área de Farmácia de Suporte Nutricional. Este selo serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph11",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Oncology Pharmacy",
+        "description": "This user works in the field of Oncology Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia Oncológica",
+        "description": "Este usuario trabaja en el campo de la Farmacia Oncológica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia Oncológica",
+        "description": "Este usuário atua na área de Farmácia Oncológica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph12",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Outpatient Pharmacy",
+        "description": "This user works in the field of Outpatient Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia Ambulatoria",
+        "description": "Este usuario trabaja en el sector de Farmacia Ambulatoria. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia Ambulatorial",
+        "description": "Este usuário trabalha na área de Farmácia Ambulatorial. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph13",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pain Management Pharmacy",
+        "description": "This user works in the field of Pain Management Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia Para El Manejo Del Dolor",
+        "description": "Este usuario trabaja en el sector de Farmacia para el Manejo del Dolor. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia Para Tratamento Da Dor",
+        "description": "Este usuário trabalha na área de Farmácia para Tratamento da Dor. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph14",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Pharmacy",
+        "description": "This user works in the field of Pediatric Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia Pediátrica",
+        "description": "Este usuario trabaja en el campo de la farmacia pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia Pediátrica",
+        "description": "Este usuário atua na área de Farmácia Pediátrica. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph15",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Personal Pharmacy",
+        "description": "This user works in the field of Personal Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia Personal",
+        "description": "Este usuario trabaja en el sector de la farmacia personal. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia Pessoal",
+        "description": "Este usuário trabalha na área de Farmácia Pessoal. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph16",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pharmacotherapy",
+        "description": "This user works in the field of Pharmacotherapy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacoterapia",
+        "description": "Este usuario trabaja en el campo de la farmacoterapia. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmacoterapia",
+        "description": "Este usuário atua na área de Farmacoterapia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph17",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Poison Control Pharmacy",
+        "description": "This user works in the field of Poison Control Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia De Control De Intoxicaciones",
+        "description": "Este usuario trabaja en el sector de Farmacia de Control de Envenenamiento. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia De Controle De Intoxicações",
+        "description": "Este usuário trabalha na área de Farmácia de Controle de Intoxicações. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph18",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Psychiatric Pharmacy",
+        "description": "This user works in the field of Psychiatric Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia Psiquiátrica",
+        "description": "Este usuario trabaja en el campo de la Farmacia Psiquiátrica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia Psiquiátrica",
+        "description": "Este usuário atua na área de Farmácia Psiquiátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ph19",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Transplantation Pharmacy",
+        "description": "This user works in the field of Transplantation Pharmacy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Farmacia De Trasplantes",
+        "description": "Este usuario trabaja en el sector de Farmacia de Trasplantes. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Farmácia De Transplante",
+        "description": "Este usuário trabalha na área de Farmácia de Transplantes. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

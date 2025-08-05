@@ -1,0 +1,242 @@
+[
+  {
+    "identifier": "ne00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Neurology",
+        "description": "This user works in the field of Neurology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Neurología",
+        "description": "Este usuario trabaja en el campo de la neurología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Neurologia",
+        "description": "Este usuário atua na área de Neurologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ne01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Brain Injury Medicine",
+        "description": "This user works in the field of Brain Injury Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina De Lesiones Cerebrales",
+        "description": "Este usuario trabaja en el campo de la medicina de lesiones cerebrales. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina De Lesão Cerebral",
+        "description": "Este usuário atua na área de Medicina de Lesões Cerebrais. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ne02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Clinical Neurophysiology",
+        "description": "This user works in the field of Clinical Neurophysiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Neurofisiología Clínica",
+        "description": "Este usuario trabaja en el campo de la neurofisiología clínica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Neurofisiologia Clínica",
+        "description": "Este usuário atua na área de Neurofisiologia Clínica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ne03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Epilepsy",
+        "description": "This user works in the field of Epilepsy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Epilepsia",
+        "description": "Este usuario trabaja en el campo de la epilepsia. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Epilepsia",
+        "description": "Este usuário trabalha na área de Epilepsia. Esta identificação serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ne04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Neurocritical Care",
+        "description": "This user works in the field of Neurocritical Care. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cuidados Neurocríticos",
+        "description": "Este usuario trabaja en el campo de Cuidados Neurocríticos. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cuidados Neurocríticos",
+        "description": "Este usuário atua na área de Cuidados Neurocríticos. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ne05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Neurodevelopmental Disabilities",
+        "description": "This user works in the field of Neurodevelopmental Disabilities. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Discapacidades Del Desarrollo Neurológico",
+        "description": "Este usuario trabaja en el campo de las discapacidades del neurodesarrollo. Esta etiqueta solo tiene fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Deficiências Do Neurodesenvolvimento",
+        "description": "Este usuário trabalha na área de Deficiências do Neurodesenvolvimento. Esta identificação serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ne06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Neuroendovascular Intervention",
+        "description": "This user works in the field of Neuroendovascular Intervention. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Intervención Neuroendovascular",
+        "description": "Este usuario trabaja en el campo de la intervención neuroendovascular. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Intervenção Neuroendovascular",
+        "description": "Este usuário atua na área de Intervenção Neuroendovascular. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ne07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Neuromuscular Medicine",
+        "description": "This user works in the field of Neuromuscular Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Neuromuscular",
+        "description": "Este usuario trabaja en el campo de la Medicina Neuromuscular. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Neuromuscular",
+        "description": "Este usuário atua na área de Medicina Neuromuscular. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ne08",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Neuro-Oncology",
+        "description": "This user works in the field of Neuro-Oncology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Neurooncología",
+        "description": "Este usuario trabaja en el campo de la neurooncología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Neuro-Oncologia",
+        "description": "Este usuário atua na área de Neuro-Oncologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ne09",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Osteopathic Neuromusculoskeletal Medicine",
+        "description": "This user works in the field of Osteopathic Neuromusculoskeletal Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Neuromusculoesquelética Osteopática",
+        "description": "Este usuario trabaja en el campo de la Medicina Neuromusculoesquelética Osteopática. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Osteopática Neuromusculoesquelética",
+        "description": "Este usuário atua na área de Medicina Osteopática Neuromusculoesquelética. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ne10",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Neurology",
+        "description": "This user works in the field of Pediatric Neurology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Neurología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la neurología pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Neurologia Pediátrica",
+        "description": "Este usuário atua na área de Neurologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ne11",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Vascular Neurology",
+        "description": "This user works in the field of Vascular Neurology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Neurología Vascular",
+        "description": "Este usuario trabaja en el campo de la neurología vascular. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Neurologia Vascular",
+        "description": "Este usuário atua na área de Neurologia Vascular. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

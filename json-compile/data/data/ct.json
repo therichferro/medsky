@@ -1,0 +1,562 @@
+[
+  {
+    "identifier": "ct00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Antibiotic Stewardship",
+        "description": "This user works in the field of Antibiotic Stewardship. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Administración De Antibióticos",
+        "description": "Este usuario trabaja en el campo de la gestión responsable de antibióticos. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Administração De Antibióticos",
+        "description": "Este usuário trabalha na área de Administração de Antibióticos. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Audiology",
+        "description": "This user works in the field of Audiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Audiología",
+        "description": "Este usuario trabaja en el campo de la audiología. Esta etiqueta es solo para fines de red y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Audiologia",
+        "description": "Este usuário trabalha na área de Audiologia. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Durable Medical Equipment",
+        "description": "This user works in the field of Durable Medical Equipment. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Equipo Médico Duradero",
+        "description": "Este usuario trabaja en el sector de equipos médicos duraderos. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Equipamentos Médicos Duráveis",
+        "description": "Este usuário trabalha na área de Equipamentos Médicos Duráveis. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Healthcare Administration",
+        "description": "This user works in the field of Healthcare Administration. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Administración De La Atención Sanitaria",
+        "description": "Este usuario trabaja en el campo de la Administración Sanitaria. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Administração De Saúde",
+        "description": "Este usuário trabalha na área de Administração de Saúde. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Home Health",
+        "description": "This user works in the field of Home Health. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Salud En El Hogar",
+        "description": "Este usuario trabaja en el sector de la salud a domicilio. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Saúde Domiciliar",
+        "description": "Este usuário trabalha na área de Saúde Domiciliar. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Intermediate Care",
+        "description": "This user works in the field of Intermediate Care. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Cuidados Intermedios",
+        "description": "Este usuario trabaja en el campo de Cuidados Intermedios. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Cuidados Intermediários",
+        "description": "Este usuário atua na área de Cuidados Intermediários. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Lactation",
+        "description": "This user works in the field of Lactation. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Lactancia",
+        "description": "Este usuario trabaja en el campo de la lactancia. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Lactação",
+        "description": "Este usuário trabalha na área de Lactação. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Medical Communication",
+        "description": "This user works in the field of Medical Communication. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Comunicación Médica",
+        "description": "Este usuario trabaja en el campo de la comunicación médica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Comunicação Médica",
+        "description": "Este usuário trabalha na área de Comunicação Médica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct08",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Medical Editor",
+        "description": "This user works in the field of Medical Editor. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Editor Médico",
+        "description": "Este usuario trabaja como editor médico. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Editor Médico",
+        "description": "Este usuário trabalha na área de Editor Médico. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct09",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Medical Ethics",
+        "description": "This user works in the field of Medical Ethics. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Ética Médica",
+        "description": "Este usuario trabaja en el campo de la ética médica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Ética Médica",
+        "description": "Este usuário atua na área de Ética Médica. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct10",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Medical Journalism",
+        "description": "This user works in the field of Medical Journalism. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Periodismo Médico",
+        "description": "Este usuario trabaja en el campo del periodismo médico. Esta etiqueta solo tiene fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Jornalismo Médico",
+        "description": "Este usuário trabalha na área de Jornalismo Médico. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct11",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Medical Records",
+        "description": "This user works in the field of Medical Records. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Historial Médico",
+        "description": "Este usuario trabaja en el campo de Historias Clínicas. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Registros Médicos",
+        "description": "Este usuário trabalha na área de Registros Médicos. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct12",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Medical Scribe",
+        "description": "This user works as a medical scribe. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Escriba Médico",
+        "description": "Este usuario trabaja como redactor médico. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Escrivão Médico",
+        "description": "Este usuário trabalha como escrivão médico. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct13",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Medical Writer",
+        "description": "This user works in the field of Medical Writer. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Escritor Médico",
+        "description": "Este usuario trabaja como redactor médico. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Escritor Médico",
+        "description": "Este usuário trabalha na área de Redação Médica. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct14",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Nursing",
+        "description": "This user works in the field of Nursing. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Enfermería",
+        "description": "Este usuario trabaja en el campo de la enfermería. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Enfermagem",
+        "description": "Este usuário trabalha na área de Enfermagem. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct15",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Nutrition",
+        "description": "This user works in the field of Nutrition. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Nutrición",
+        "description": "Este usuario trabaja en el campo de la nutrición. Esta etiqueta solo tiene fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Nutrição",
+        "description": "Este usuário trabalha na área de Nutrição. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct16",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Occupational Therapy",
+        "description": "This user works in the field of Occupational Therapy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Terapia Ocupacional",
+        "description": "Este usuario trabaja en el campo de la Terapia Ocupacional. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Terapia Ocupacional",
+        "description": "Este usuário trabalha na área de Terapia Ocupacional. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct17",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Patient Education",
+        "description": "This user works in the field of Patient Education. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Educación Del Paciente",
+        "description": "Este usuario trabaja en el campo de la educación del paciente. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Educação Do Paciente",
+        "description": "Este usuário trabalha na área de Educação de Pacientes. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct18",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Patient Engagement",
+        "description": "This user works in the field of Patient Engagement. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Compromiso Del Paciente",
+        "description": "Este usuario trabaja en el área de Participación del Paciente. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Engajamento Do Paciente",
+        "description": "Este usuário trabalha na área de Engajamento de Pacientes. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct19",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Patient Experience",
+        "description": "This user works in the field of Patient Experience. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Experiencia Del Paciente",
+        "description": "Este usuario trabaja en el campo de la Experiencia del Paciente. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Experiência Do Paciente",
+        "description": "Este usuário trabalha na área de Experiência do Paciente. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct20",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Phlebotomy",
+        "description": "This user works in the field of Phlebotomy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Flebotomía",
+        "description": "Este usuario trabaja en el campo de la flebotomía. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Flebotomia",
+        "description": "Este usuário trabalha na área de Flebotomia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct21",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Physician Wellbeing",
+        "description": "This user works in the field of Physician Wellbeing. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Bienestar Del Médico",
+        "description": "Este usuario trabaja en el campo del bienestar médico. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Bem-Estar Do Médico",
+        "description": "Este usuário trabalha na área de Bem-Estar Médico. Esta identificação serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct22",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Physical Therapy",
+        "description": "This user works in the field of Physical Therapy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Fisioterapia",
+        "description": "Este usuario trabaja en el campo de la fisioterapia. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Fisioterapia",
+        "description": "Este usuário atua na área de Fisioterapia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct23",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Poison Control",
+        "description": "This user works in the field of Poison Control. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Control De Intoxicaciones",
+        "description": "Este usuario trabaja en el área de Control de Envenenamiento. Esta etiqueta es solo para fines de red y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Controle De Venenos",
+        "description": "Este usuário trabalha na área de Controle de Intoxicações. Esta etiqueta serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct24",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Radiation Therapy",
+        "description": "This user works in the field of Radiation Therapy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Radioterapia",
+        "description": "Este usuario trabaja en el campo de la radioterapia. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Radioterapia",
+        "description": "Este usuário trabalha na área de Radioterapia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct25",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Respiratory Therapy",
+        "description": "This user works in the field of Respiratory Therapy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Terapia Respiratoria",
+        "description": "Este usuario trabaja en el campo de la terapia respiratoria. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Terapia Respiratória",
+        "description": "Este usuário trabalha na área de Terapia Respiratória. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct26",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Speech Therapy",
+        "description": "This user works in the field of Speech Therapy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Terapia Del Habla",
+        "description": "Este usuario trabaja en el campo de la logopedia. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Terapia Da Fala",
+        "description": "Este usuário atua na área de Fonoaudiologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ct27",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Medical Volunteer",
+        "description": "This user volunteers in the healthcare setting. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Voluntario Médico",
+        "description": "Este usuario es voluntario en el ámbito sanitario. Esta etiqueta solo tiene fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Voluntário Médico",
+        "description": "Este usuário é voluntário na área da saúde. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

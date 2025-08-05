@@ -1,0 +1,202 @@
+[
+  {
+    "identifier": "an00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Anesthesiology",
+        "description": "This user works in the field of Anesthesiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Anestesiología",
+        "description": "Este usuario trabaja en el campo de la anestesiología. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Anestesiologia",
+        "description": "Este usuário atua na área de Anestesiologia. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "an01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Acute Pain Medicine",
+        "description": "This user works in the field of Acute Pain Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Del Dolor Agudo",
+        "description": "Este usuario trabaja en el campo de la medicina del dolor agudo. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Da Dor Aguda",
+        "description": "Este usuário atua na área de Medicina da Dor Aguda. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "an02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Anesthesiology Critical Care Medicine",
+        "description": "This user works in the field of Anesthesiology Critical Care Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Anestesiología Medicina De Cuidados Críticos",
+        "description": "Este usuario trabaja en el campo de la Anestesiología y la Medicina Intensiva. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Anestesiologia Medicina De Cuidados Intensivos",
+        "description": "Este usuário atua na área de Anestesiologia e Medicina Intensiva. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "an03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Adult Cardiothoracic Anesthesiology",
+        "description": "This user works in the field of Adult Cardiothoracic Anesthesiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Anestesiología Cardiotorácica Para Adultos",
+        "description": "Este usuario trabaja en el campo de la anestesiología cardiotorácica para adultos. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Anestesiologia Cardiotorácica Adulta",
+        "description": "Este usuário atua na área de Anestesiologia Cardiotorácica Adulta. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "an04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Interventional Pain Medicine",
+        "description": "This user works in the field of Interventional Pain Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Intervencionista Del Dolor",
+        "description": "Este usuario trabaja en el campo de la Medicina Intervencionista del Dolor. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Intervencionista Da Dor",
+        "description": "Este usuário atua na área de Medicina Intervencionista da Dor. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "an05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Obstetric Anesthesiology",
+        "description": "This user works in the field of Obstetric Anesthesiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Anestesiología Obstétrica",
+        "description": "Este usuario trabaja en el campo de la anestesiología obstétrica. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Anestesiologia Obstétrica",
+        "description": "Este usuário atua na área de Anestesiologia Obstétrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "an06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pain Medicine",
+        "description": "This user works in the field of Pain Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Para El Dolor",
+        "description": "Este usuario trabaja en el campo de la medicina del dolor. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Da Dor",
+        "description": "Este usuário atua na área de Medicina da Dor. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "an07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Anesthesiology",
+        "description": "This user works in the field of Pediatric Anesthesiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Anestesiología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la anestesiología pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Anestesiologia Pediátrica",
+        "description": "Este usuário atua na área de Anestesiologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "an08",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Cardiac Anesthesiology",
+        "description": "This user works in the field of Pediatric Cardiac Anesthesiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Anestesiología Cardíaca Pediátrica",
+        "description": "Este usuario trabaja en el campo de la anestesiología cardíaca pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Anestesiologia Cardíaca Pediátrica",
+        "description": "Este usuário atua na área de Anestesiologia Cardíaca Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "an09",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Regional Anesthesiology",
+        "description": "This user works in the field of Regional Anesthesiology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Anestesiología Regional",
+        "description": "Este usuario trabaja en el campo de la anestesiología regional. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Anestesiologia Regional",
+        "description": "Este usuário atua na área de Anestesiologia Regional. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

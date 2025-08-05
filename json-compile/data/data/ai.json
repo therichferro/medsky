@@ -1,0 +1,122 @@
+[
+  {
+    "identifier": "ai00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Allergy & Immunology",
+        "description": "This user works in the field of Allergy & Immunology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Alergia E Inmunología",
+        "description": "Este usuario trabaja en el campo de la alergia y la inmunología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Alergia E Imunologia",
+        "description": "Este usuário trabalha na área de Alergia e Imunologia. Esta identificação serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ai01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Allergy",
+        "description": "This user works in the field of Allergy. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Alergia",
+        "description": "Este usuario trabaja en el campo de la alergia. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Alergia",
+        "description": "Este usuário trabalha na área de Alergia. Esta etiqueta serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ai02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Immunology",
+        "description": "This user works in the field of Immunology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Inmunología",
+        "description": "Este usuario trabaja en el campo de la inmunología. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Imunologia",
+        "description": "Este usuário trabalha na área de Imunologia. Esta identificação serve apenas para fins de networking e não constitui uma verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ai03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Clinical & Laboratory Immunology",
+        "description": "This user works in the field of Clinical & Laboratory Immunology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Inmunología Clínica Y De Laboratorio",
+        "description": "Este usuario trabaja en el campo de la inmunología clínica y de laboratorio. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Imunologia Clínica E Laboratorial",
+        "description": "Este usuário atua na área de Imunologia Clínica e Laboratorial. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ai04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Allergy & Immunology",
+        "description": "This user works in the field of Pediatric Immunology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Alergia E Inmunología Pediátrica",
+        "description": "Este usuario trabaja en el campo de la inmunología pediátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Alergia E Imunologia Pediátrica",
+        "description": "Este usuário atua na área de Imunologia Pediátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ai05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Transplant Immunology",
+        "description": "This user works in the field of Transplant Immunology. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Inmunología De Trasplantes",
+        "description": "Este usuario trabaja en el campo de la inmunología de trasplantes. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencias."
+      },
+      {
+        "lang": "pt",
+        "name": "Imunologia De Transplante",
+        "description": "Este usuário atua na área de Imunologia de Transplantes. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

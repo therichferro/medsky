@@ -1,0 +1,102 @@
+[
+  {
+    "identifier": "pr00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Physical Medicine & Rehabilitation",
+        "description": "This user works in the field of Physical Medicine & Rehabilitation. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Física Y Rehabilitación",
+        "description": "Este usuario trabaja en el campo de la Medicina Física y la Rehabilitación. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Física E Reabilitação",
+        "description": "Este usuário atua na área de Medicina Física e Reabilitação. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pr01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Brain Injury Medicine",
+        "description": "This user works in the field of Brain Injury Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina De Lesiones Cerebrales",
+        "description": "Este usuario trabaja en el campo de la medicina de lesiones cerebrales. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina De Lesão Cerebral",
+        "description": "Este usuário atua na área de Medicina de Lesões Cerebrais. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pr02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Neuromuscular Medicine",
+        "description": "This user works in the field of Neuromuscular Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Neuromuscular",
+        "description": "Este usuario trabaja en el campo de la Medicina Neuromuscular. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Neuromuscular",
+        "description": "Este usuário atua na área de Medicina Neuromuscular. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pr03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Pediatric Rehabilitation Medicine",
+        "description": "This user works in the field of Pediatrics/Physical Medicine & Rehabilitation. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina De Rehabilitación Pediátrica",
+        "description": "Este usuario trabaja en el campo de Pediatría/Medicina Física y Rehabilitación. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina De Reabilitação Pediátrica",
+        "description": "Este usuário atua na área de Pediatria/Medicina Física e Reabilitação. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "pr04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Spinal Cord Injury Medicine",
+        "description": "This user works in the field of Spinal Cord Injury Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina De Lesiones De La Médula Espinal",
+        "description": "Este usuario trabaja en el campo de la medicina de lesiones medulares. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Para Lesões Da Medula Espinhal",
+        "description": "Este usuário atua na área de Medicina de Lesões Medulares. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "identifier": "aa00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Medical School",
+        "description": "This is an official account for a Medical School"
+      },
+      {
+        "lang": "es",
+        "name": "Escuela De Medicina",
+        "description": "Esta es una cuenta oficial de una Escuela de Medicina"
+      },
+      {
+        "lang": "pt",
+        "name": "Escola De Medicina",
+        "description": "Esta é uma conta oficial de uma Escola de Medicina"
+      }
+    ]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "identifier": "ps00",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Psychiatry",
+        "description": "This user works in the field of Psychiatry. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psiquiatría",
+        "description": "Este usuario trabaja en el campo de la psiquiatría. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psiquiatria",
+        "description": "Este usuário atua na área de Psiquiatria. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ps01",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Addiction Psychiatry",
+        "description": "This user works in the field of Addiction Psychiatry. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psiquiatría De Las Adicciones",
+        "description": "Este usuario trabaja en el campo de la psiquiatría especializada en adicciones. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psiquiatria Da Dependência Química",
+        "description": "Este usuário atua na área de Psiquiatria da Dependência Química. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ps02",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Behavioral Neurology & Neuropsychiatry",
+        "description": "This user works in the field of Behavioral Neurology & Neuropsychiatry. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Neurología Del Comportamiento Y Neuropsiquiatría",
+        "description": "Este usuario trabaja en el campo de la neurología conductual y la neuropsiquiatría. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Neurologia Comportamental E Neuropsiquiatria",
+        "description": "Este usuário atua na área de Neurologia Comportamental e Neuropsiquiatria. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ps03",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Consultation-Liaison Psychiatry",
+        "description": "This user works in the field of Consultation-Liaison Psychiatry. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psiquiatría De Consulta Y Enlace",
+        "description": "Este usuario trabaja en el campo de la psiquiatría de consulta y enlace. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psiquiatria De Consulta E Ligação",
+        "description": "Este usuário atua na área de Psiquiatria de Consulta e Ligação. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ps04",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Child & Adolescent Psychiatry",
+        "description": "This user works in the field of Child & Adolescent Psychiatry. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psiquiatría Infantil Y Adolescente",
+        "description": "Este usuario trabaja en el campo de la psiquiatría infantil y adolescente. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psiquiatria Infantil E Adolescente",
+        "description": "Este usuário atua na área de Psiquiatria Infantil e Adolescente. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ps05",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Forensic Psychiatry",
+        "description": "This user works in the field of Forensic Psychiatry. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psiquiatría Forense",
+        "description": "Este usuario trabaja en el campo de la psiquiatría forense. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psiquiatria Forense",
+        "description": "Este usuário atua na área de Psiquiatria Forense. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ps06",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Geriatric Psychiatry",
+        "description": "This user works in the field of Geriatric Psychiatry. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Psiquiatría Geriátrica",
+        "description": "Este usuario trabaja en el campo de la psiquiatría geriátrica. Esta etiqueta solo se utiliza para establecer contactos y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Psiquiatria Geriátrica",
+        "description": "Este usuário atua na área de Psiquiatria Geriátrica. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  },
+  {
+    "identifier": "ps07",
+    "locales": [
+      {
+        "lang": "en",
+        "name": "Psychosomatic Medicine",
+        "description": "This user works in the field of Psychosomatic Medicine. This label is only for networking purposes and is not a verification of credentials or licensure."
+      },
+      {
+        "lang": "es",
+        "name": "Medicina Psicosomática",
+        "description": "Este usuario trabaja en el campo de la Medicina Psicosomática. Esta etiqueta es solo para fines de networking y no constituye una verificación de credenciales ni licencia."
+      },
+      {
+        "lang": "pt",
+        "name": "Medicina Psicossomática",
+        "description": "Este usuário atua na área de Medicina Psicossomática. Esta identificação serve apenas para fins de networking e não constitui verificação de credenciais ou licença."
+      }
+    ]
+  }
+]
