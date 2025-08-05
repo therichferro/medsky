@@ -1,3 +1,4 @@
+HEAD
 ## Configuration
 
 Run `npx @skyware/labeler setup` to convert an existing account into a labeler.
@@ -17,3 +18,4 @@ labeler.example.com {
 	reverse_proxy 127.0.0.1:4001
 }
 ```
+ 351bc8e5aaa040c682fc47b2be27627190c738f6
